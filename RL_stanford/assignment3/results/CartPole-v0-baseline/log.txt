@@ -1,0 +1,306 @@
+2019-05-04 21:49:30,247:WARNING: From pg.py:60: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-05-04 21:49:30,254:WARNING: From /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/.hw3/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-05-04 21:49:30,271:WARNING: From pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.random.categorical instead.
+2019-05-04 21:49:30,358:WARNING: From /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/.hw3/lib/python3.6/site-packages/tensorflow/python/ops/losses/losses_impl.py:667: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-05-04 21:52:18,914:WARNING: From pg.py:60: dense (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.dense instead.
+2019-05-04 21:52:18,920:WARNING: From /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/.hw3/lib/python3.6/site-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-05-04 21:52:18,937:WARNING: From pg.py:186: multinomial (from tensorflow.python.ops.random_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.random.categorical instead.
+2019-05-04 21:52:19,024:WARNING: From /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/.hw3/lib/python3.6/site-packages/tensorflow/python/ops/losses/losses_impl.py:667: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-05-04 21:52:19,106:WARNING: From /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/.hw3/lib/python3.6/site-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-05-04 21:52:19,280:INFO: Making new env: CartPole-v0
+2019-05-04 21:52:19,281:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.9929.video000000.mp4
+2019-05-04 21:52:19,634:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-04 22:00:49,175:INFO: Making new env: CartPole-v0
+2019-05-04 22:00:49,176:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.11505.video000000.mp4
+2019-05-04 22:00:49,510:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-04 22:14:31,549:INFO: Making new env: CartPole-v0
+2019-05-04 22:14:31,550:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.12326.video000000.mp4
+2019-05-04 22:14:31,870:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-04 22:16:39,298:INFO: Making new env: CartPole-v0
+2019-05-04 22:16:39,298:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.12532.video000000.mp4
+2019-05-04 22:16:39,603:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-04 22:17:37,879:INFO: Making new env: CartPole-v0
+2019-05-04 22:17:37,880:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.12674.video000000.mp4
+2019-05-04 22:17:38,187:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-04 22:44:16,531:INFO: Making new env: CartPole-v0
+2019-05-04 22:44:16,532:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.13843.video000000.mp4
+2019-05-04 22:44:16,865:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 10:22:23,988:INFO: Making new env: CartPole-v0
+2019-05-05 10:22:23,989:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.5057.video000000.mp4
+2019-05-05 10:22:24,347:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 10:34:22,731:INFO: Making new env: CartPole-v0
+2019-05-05 10:34:22,732:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.5669.video000000.mp4
+2019-05-05 10:34:23,015:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 10:42:35,825:INFO: Making new env: CartPole-v0
+2019-05-05 10:42:35,826:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.6082.video000000.mp4
+2019-05-05 10:42:36,111:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 10:59:23,950:INFO: Making new env: CartPole-v0
+2019-05-05 10:59:23,950:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.7030.video000000.mp4
+2019-05-05 10:59:24,255:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:00:38,537:INFO: Making new env: CartPole-v0
+2019-05-05 11:00:38,538:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.7186.video000000.mp4
+2019-05-05 11:00:39,083:INFO: Average reward: 15.00 +/- 0.00
+2019-05-05 11:00:39,105:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:07:49,208:INFO: Making new env: CartPole-v0
+2019-05-05 11:07:49,209:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.7431.video000000.mp4
+2019-05-05 11:07:49,723:INFO: Average reward: 13.00 +/- 0.00
+2019-05-05 11:07:49,743:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:08:56,629:INFO: Making new env: CartPole-v0
+2019-05-05 11:08:56,630:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.7583.video000000.mp4
+2019-05-05 11:08:57,536:INFO: Average reward: 37.00 +/- 0.00
+2019-05-05 11:08:57,576:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:14:05,220:INFO: Making new env: CartPole-v0
+2019-05-05 11:14:05,221:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.7872.video000000.mp4
+2019-05-05 11:14:05,665:INFO: Average reward: 9.00 +/- 0.00
+2019-05-05 11:14:05,683:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:19:41,874:INFO: Making new env: CartPole-v0
+2019-05-05 11:19:41,875:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.8196.video000000.mp4
+2019-05-05 11:19:42,614:INFO: Average reward: 27.00 +/- 0.00
+2019-05-05 11:19:42,647:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:31:34,692:INFO: Making new env: CartPole-v0
+2019-05-05 11:31:34,693:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.8510.video000000.mp4
+2019-05-05 11:31:35,149:INFO: Average reward: 10.00 +/- 0.00
+2019-05-05 11:31:35,167:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:31:42,032:INFO: Making new env: CartPole-v0
+2019-05-05 11:31:42,033:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.8584.video000000.mp4
+2019-05-05 11:31:42,723:INFO: Average reward: 24.00 +/- 0.00
+2019-05-05 11:31:42,757:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:40:51,223:INFO: Making new env: CartPole-v0
+2019-05-05 11:40:51,224:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.9301.video000000.mp4
+2019-05-05 11:40:51,683:INFO: Average reward: 10.00 +/- 0.00
+2019-05-05 11:40:51,704:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:41:47,008:INFO: Making new env: CartPole-v0
+2019-05-05 11:41:47,008:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.9389.video000000.mp4
+2019-05-05 11:41:47,455:INFO: Average reward: 10.00 +/- 0.00
+2019-05-05 11:41:47,474:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:42:58,730:INFO: Making new env: CartPole-v0
+2019-05-05 11:42:58,730:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.9523.video000000.mp4
+2019-05-05 11:42:59,435:INFO: Average reward: 25.00 +/- 0.00
+2019-05-05 11:42:59,463:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:44:15,518:INFO: Making new env: CartPole-v0
+2019-05-05 11:44:15,519:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.9666.video000000.mp4
+2019-05-05 11:44:16,027:INFO: Average reward: 12.00 +/- 0.00
+2019-05-05 11:44:16,057:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:44:44,981:INFO: Making new env: CartPole-v0
+2019-05-05 11:44:44,982:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.9749.video000000.mp4
+2019-05-05 11:44:45,748:INFO: Average reward: 29.00 +/- 0.00
+2019-05-05 11:44:45,786:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 11:46:37,219:INFO: Making new env: CartPole-v0
+2019-05-05 11:46:37,219:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.9874.video000000.mp4
+2019-05-05 11:46:37,894:INFO: Average reward: 23.00 +/- 0.00
+2019-05-05 11:46:37,923:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 16:33:43,776:INFO: Making new env: CartPole-v0
+2019-05-05 16:33:43,777:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.4311.video000000.mp4
+2019-05-05 16:33:44,358:INFO: Average reward: 13.00 +/- 0.00
+2019-05-05 16:33:44,385:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 16:35:41,439:INFO: Making new env: CartPole-v0
+2019-05-05 16:35:41,440:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.4455.video000000.mp4
+2019-05-05 16:35:42,173:INFO: Average reward: 28.00 +/- 0.00
+2019-05-05 16:35:42,205:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 16:36:08,027:INFO: Making new env: CartPole-v0
+2019-05-05 16:36:08,028:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.4539.video000000.mp4
+2019-05-05 16:36:08,496:INFO: Average reward: 11.00 +/- 0.00
+2019-05-05 16:36:08,513:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 16:36:24,150:INFO: Making new env: CartPole-v0
+2019-05-05 16:36:24,151:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.4618.video000000.mp4
+2019-05-05 16:36:24,784:INFO: Average reward: 22.00 +/- 0.00
+2019-05-05 16:36:24,812:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 16:36:39,775:INFO: Making new env: CartPole-v0
+2019-05-05 16:36:39,775:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.4701.video000000.mp4
+2019-05-05 16:36:40,602:INFO: Average reward: 32.00 +/- 0.00
+2019-05-05 16:36:40,671:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 16:37:23,440:INFO: Making new env: CartPole-v0
+2019-05-05 16:37:23,441:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.4806.video000000.mp4
+2019-05-05 16:37:23,880:INFO: Average reward: 10.00 +/- 0.00
+2019-05-05 16:37:23,921:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 16:41:00,850:INFO: Making new env: CartPole-v0
+2019-05-05 16:41:00,850:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.4955.video000000.mp4
+2019-05-05 16:41:01,689:INFO: Average reward: 34.00 +/- 0.00
+2019-05-05 16:41:01,725:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 19:27:43,129:INFO: Making new env: CartPole-v0
+2019-05-05 19:27:43,130:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.3615.video000000.mp4
+2019-05-05 19:27:43,709:INFO: Average reward: 14.00 +/- 0.00
+2019-05-05 19:27:43,730:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 19:29:27,960:INFO: Making new env: CartPole-v0
+2019-05-05 19:29:27,961:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.3731.video000000.mp4
+2019-05-05 19:29:28,572:INFO: Average reward: 21.00 +/- 0.00
+2019-05-05 19:29:28,599:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 19:36:09,408:INFO: Making new env: CartPole-v0
+2019-05-05 19:36:09,409:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.4260.video000000.mp4
+2019-05-05 19:36:09,985:INFO: Average reward: 18.00 +/- 0.00
+2019-05-05 19:36:10,010:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 19:36:40,878:INFO: Making new env: CartPole-v0
+2019-05-05 19:36:40,879:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.4333.video000000.mp4
+2019-05-05 19:36:41,339:INFO: Average reward: 10.00 +/- 0.00
+2019-05-05 19:36:41,361:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 19:51:45,379:INFO: Making new env: CartPole-v0
+2019-05-05 19:51:45,380:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.4995.video000000.mp4
+2019-05-05 19:51:45,952:INFO: Average reward: 17.00 +/- 0.00
+2019-05-05 19:51:45,975:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 19:52:25,115:INFO: Making new env: CartPole-v0
+2019-05-05 19:52:25,116:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.5101.video000000.mp4
+2019-05-05 19:52:25,565:INFO: Average reward: 9.00 +/- 0.00
+2019-05-05 19:52:25,587:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 19:53:47,563:INFO: Making new env: CartPole-v0
+2019-05-05 19:53:47,564:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.5250.video000000.mp4
+2019-05-05 19:53:48,369:INFO: Average reward: 32.00 +/- 0.00
+2019-05-05 19:53:48,400:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 19:54:26,254:INFO: Making new env: CartPole-v0
+2019-05-05 19:54:26,255:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.5331.video000000.mp4
+2019-05-05 19:54:26,896:INFO: Average reward: 22.00 +/- 0.00
+2019-05-05 19:54:26,922:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 19:56:00,137:INFO: Making new env: CartPole-v0
+2019-05-05 19:56:00,138:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.5458.video000000.mp4
+2019-05-05 19:56:01,172:INFO: Average reward: 45.00 +/- 0.00
+2019-05-05 19:56:01,200:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 20:02:17,898:INFO: Making new env: CartPole-v0
+2019-05-05 20:02:17,899:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.5707.video000000.mp4
+2019-05-05 20:02:18,407:INFO: Average reward: 14.00 +/- 0.00
+2019-05-05 20:02:18,428:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 20:04:10,054:INFO: Making new env: CartPole-v0
+2019-05-05 20:04:10,055:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.5874.video000000.mp4
+2019-05-05 20:04:10,796:INFO: Average reward: 27.00 +/- 0.00
+2019-05-05 20:04:10,830:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 20:06:58,239:INFO: Making new env: CartPole-v0
+2019-05-05 20:06:58,239:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.6051.video000000.mp4
+2019-05-05 20:06:59,130:INFO: Average reward: 37.00 +/- 0.00
+2019-05-05 20:06:59,172:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 20:07:38,218:INFO: Making new env: CartPole-v0
+2019-05-05 20:07:38,218:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.6146.video000000.mp4
+2019-05-05 20:07:38,990:INFO: Average reward: 29.00 +/- 0.00
+2019-05-05 20:07:39,034:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 20:08:47,761:INFO: Making new env: CartPole-v0
+2019-05-05 20:08:47,761:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.6274.video000000.mp4
+2019-05-05 20:08:48,202:INFO: Average reward: 10.00 +/- 0.00
+2019-05-05 20:08:48,222:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 20:09:30,764:INFO: Making new env: CartPole-v0
+2019-05-05 20:09:30,765:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.6376.video000000.mp4
+2019-05-05 20:09:31,220:INFO: Average reward: 9.00 +/- 0.00
+2019-05-05 20:09:31,237:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 20:12:48,022:INFO: Making new env: CartPole-v0
+2019-05-05 20:12:48,023:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.0.6517.video000000.mp4
+2019-05-05 20:12:48,506:INFO: Average reward: 12.00 +/- 0.00
+2019-05-05 20:12:48,525:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
+2019-05-05 20:12:48,786:INFO: Average reward: 26.70 +/- 2.61
+2019-05-05 20:12:48,983:INFO: Average reward: 44.33 +/- 6.38
+2019-05-05 20:12:49,187:INFO: Average reward: 40.91 +/- 3.46
+2019-05-05 20:12:49,392:INFO: Average reward: 75.92 +/- 10.34
+2019-05-05 20:12:49,599:INFO: Average reward: 86.91 +/- 12.36
+2019-05-05 20:12:49,823:INFO: Average reward: 154.33 +/- 17.62
+2019-05-05 20:12:50,038:INFO: Average reward: 101.22 +/- 22.70
+2019-05-05 20:12:50,251:INFO: Average reward: 104.00 +/- 16.61
+2019-05-05 20:12:50,471:INFO: Average reward: 166.17 +/- 10.19
+2019-05-05 20:12:50,693:INFO: Average reward: 147.50 +/- 16.63
+2019-05-05 20:12:50,911:INFO: Average reward: 137.17 +/- 18.98
+2019-05-05 20:12:51,129:INFO: Average reward: 152.50 +/- 14.47
+2019-05-05 20:12:51,353:INFO: Average reward: 150.17 +/- 15.90
+2019-05-05 20:12:51,575:INFO: Average reward: 162.33 +/- 14.34
+2019-05-05 20:12:51,819:INFO: Average reward: 149.17 +/- 15.22
+2019-05-05 20:12:52,043:INFO: Average reward: 180.80 +/- 11.45
+2019-05-05 20:12:52,265:INFO: Average reward: 165.33 +/- 15.67
+2019-05-05 20:12:52,477:INFO: Average reward: 162.17 +/- 15.56
+2019-05-05 20:12:52,697:INFO: Average reward: 178.40 +/- 11.92
+2019-05-05 20:12:52,923:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:53,147:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:53,373:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:53,595:INFO: Average reward: 194.60 +/- 4.83
+2019-05-05 20:12:53,832:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:54,083:INFO: Average reward: 190.00 +/- 8.94
+2019-05-05 20:12:54,309:INFO: Average reward: 198.60 +/- 1.25
+2019-05-05 20:12:54,536:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:54,759:INFO: Average reward: 174.80 +/- 17.32
+2019-05-05 20:12:54,984:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:55,217:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:55,446:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:55,670:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:55,897:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:56,126:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:56,357:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:56,588:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:12:56,811:INFO: Average reward: 182.20 +/- 7.42
+2019-05-05 20:12:57,033:INFO: Average reward: 148.33 +/- 6.49
+2019-05-05 20:12:57,245:INFO: Average reward: 135.29 +/- 5.04
+2019-05-05 20:12:57,461:INFO: Average reward: 136.29 +/- 3.99
+2019-05-05 20:12:57,682:INFO: Average reward: 141.71 +/- 2.06
+2019-05-05 20:12:57,898:INFO: Average reward: 128.57 +/- 3.66
+2019-05-05 20:12:58,109:INFO: Average reward: 124.50 +/- 2.11
+2019-05-05 20:12:58,322:INFO: Average reward: 115.12 +/- 11.56
+2019-05-05 20:12:58,537:INFO: Average reward: 124.75 +/- 2.10
+2019-05-05 20:12:58,754:INFO: Average reward: 142.00 +/- 3.32
+2019-05-05 20:12:58,968:INFO: Average reward: 135.57 +/- 4.13
+2019-05-05 20:12:59,197:INFO: Average reward: 119.25 +/- 16.71
+2019-05-05 20:12:59,422:INFO: Average reward: 166.40 +/- 2.49
+2019-05-05 20:12:59,642:INFO: Average reward: 184.40 +/- 4.95
+2019-05-05 20:12:59,864:INFO: Average reward: 187.00 +/- 5.82
+2019-05-05 20:13:00,093:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:00,316:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:00,544:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:00,773:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:01,000:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:01,220:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:01,470:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:01,699:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:01,925:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:02,154:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:02,397:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:02,623:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:02,848:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:03,074:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:03,306:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:03,536:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:03,769:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:04,004:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:04,229:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:04,451:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:04,679:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:04,911:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:05,137:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:05,367:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:05,593:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:05,839:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:06,063:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:06,293:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:06,520:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:06,752:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:06,979:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:07,207:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:07,433:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:07,656:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:07,880:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:08,107:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:08,340:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:08,574:INFO: Average reward: 200.00 +/- 0.00
+2019-05-05 20:13:08,810:INFO: Average reward: 180.00 +/- 13.04
+2019-05-05 20:13:09,045:INFO: Average reward: 189.20 +/- 9.66
+2019-05-05 20:13:09,289:INFO: Average reward: 175.20 +/- 22.18
+2019-05-05 20:13:09,520:INFO: Average reward: 153.33 +/- 17.09
+2019-05-05 20:13:09,757:INFO: Average reward: 190.60 +/- 7.14
+2019-05-05 20:13:09,988:INFO: Average reward: 140.00 +/- 18.38
+2019-05-05 20:13:10,214:INFO: Average reward: 141.71 +/- 19.04
+2019-05-05 20:13:10,439:INFO: Average reward: 124.14 +/- 15.37
+2019-05-05 20:13:10,672:INFO: Average reward: 137.57 +/- 22.06
+2019-05-05 20:13:10,893:INFO: Average reward: 137.71 +/- 18.91
+2019-05-05 20:13:11,121:INFO: Average reward: 143.17 +/- 23.80
+2019-05-05 20:13:11,121:INFO: - Training done.
+2019-05-05 20:13:11,271:INFO: Making new env: CartPole-v0
+2019-05-05 20:13:11,272:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline/openaigym.video.1.6517.video000000.mp4
+2019-05-05 20:13:13,512:INFO: Average reward: 132.00 +/- 0.00
+2019-05-05 20:13:13,540:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/CartPole-v0-baseline')
