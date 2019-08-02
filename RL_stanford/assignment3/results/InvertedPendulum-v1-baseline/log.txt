@@ -1,0 +1,1075 @@
+2019-05-05 23:14:44,611:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:14:44,614:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.13428.video000000.mp4
+2019-05-05 23:14:44,871:INFO: Average reward: 14.00 +/- 0.00
+2019-05-05 23:14:44,896:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:15:02,349:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:15:02,352:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.13517.video000000.mp4
+2019-05-05 23:15:02,604:INFO: Average reward: 15.00 +/- 0.00
+2019-05-05 23:15:02,628:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:17:57,118:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:17:57,121:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.13986.video000000.mp4
+2019-05-05 23:17:57,304:INFO: Average reward: 5.00 +/- 0.00
+2019-05-05 23:17:57,318:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:26:35,818:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:26:35,821:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.14488.video000000.mp4
+2019-05-05 23:26:36,033:INFO: Average reward: 10.00 +/- 0.00
+2019-05-05 23:26:36,054:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:27:09,623:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:27:09,626:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.14578.video000000.mp4
+2019-05-05 23:27:09,798:INFO: Average reward: 3.00 +/- 0.00
+2019-05-05 23:27:09,810:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:28:27,688:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:28:27,691:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.14699.video000000.mp4
+2019-05-05 23:28:28,086:INFO: Average reward: 33.00 +/- 0.00
+2019-05-05 23:28:28,128:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:30:47,358:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:30:47,361:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.14900.video000000.mp4
+2019-05-05 23:30:47,695:INFO: Average reward: 25.00 +/- 0.00
+2019-05-05 23:30:47,731:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:32:10,904:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:32:10,907:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.15017.video000000.mp4
+2019-05-05 23:32:11,147:INFO: Average reward: 6.00 +/- 0.00
+2019-05-05 23:32:11,162:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:32:11,740:INFO: Average reward: 6.17 +/- 0.24
+2019-05-05 23:32:12,196:INFO: Average reward: 5.53 +/- 0.19
+2019-05-05 23:32:12,692:INFO: Average reward: 4.71 +/- 0.12
+2019-05-05 23:32:13,160:INFO: Average reward: 4.57 +/- 0.10
+2019-05-05 23:32:13,646:INFO: Average reward: 4.24 +/- 0.09
+2019-05-05 23:32:14,122:INFO: Average reward: 4.25 +/- 0.09
+2019-05-05 23:32:14,624:INFO: Average reward: 3.97 +/- 0.07
+2019-05-05 23:32:15,144:INFO: Average reward: 4.04 +/- 0.07
+2019-05-05 23:32:15,655:INFO: Average reward: 3.69 +/- 0.06
+2019-05-05 23:32:16,171:INFO: Average reward: 3.56 +/- 0.04
+2019-05-05 23:32:16,679:INFO: Average reward: 3.53 +/- 0.04
+2019-05-05 23:32:17,200:INFO: Average reward: 3.42 +/- 0.05
+2019-05-05 23:32:17,722:INFO: Average reward: 3.33 +/- 0.04
+2019-05-05 23:32:18,256:INFO: Average reward: 3.24 +/- 0.03
+2019-05-05 23:32:18,784:INFO: Average reward: 3.28 +/- 0.04
+2019-05-05 23:32:19,306:INFO: Average reward: 3.26 +/- 0.04
+2019-05-05 23:32:19,843:INFO: Average reward: 3.17 +/- 0.03
+2019-05-05 23:32:20,397:INFO: Average reward: 3.17 +/- 0.04
+2019-05-05 23:32:20,920:INFO: Average reward: 3.09 +/- 0.03
+2019-05-05 23:32:21,443:INFO: Average reward: 3.10 +/- 0.03
+2019-05-05 23:32:21,980:INFO: Average reward: 3.10 +/- 0.03
+2019-05-05 23:32:22,541:INFO: Average reward: 3.12 +/- 0.03
+2019-05-05 23:32:23,088:INFO: Average reward: 3.01 +/- 0.03
+2019-05-05 23:32:23,634:INFO: Average reward: 2.94 +/- 0.03
+2019-05-05 23:32:24,185:INFO: Average reward: 2.78 +/- 0.03
+2019-05-05 23:32:24,744:INFO: Average reward: 2.57 +/- 0.03
+2019-05-05 23:32:25,349:INFO: Average reward: 2.32 +/- 0.02
+2019-05-05 23:32:26,013:INFO: Average reward: 2.22 +/- 0.02
+2019-05-05 23:32:26,690:INFO: Average reward: 2.13 +/- 0.02
+2019-05-05 23:32:27,415:INFO: Average reward: 2.09 +/- 0.01
+2019-05-05 23:32:28,052:INFO: Average reward: 2.07 +/- 0.01
+2019-05-05 23:32:28,678:INFO: Average reward: 2.01 +/- 0.00
+2019-05-05 23:32:29,300:INFO: Average reward: 2.01 +/- 0.00
+2019-05-05 23:32:29,955:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:32:30,577:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:32:31,201:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:32:31,829:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:32:32,441:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:32:33,056:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:32:33,679:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:32:34,303:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:32:34,960:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:32:35,582:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:32:36,206:INFO: Average reward: 1.97 +/- 0.01
+2019-05-05 23:32:36,874:INFO: Average reward: 1.78 +/- 0.02
+2019-05-05 23:32:37,680:INFO: Average reward: 1.46 +/- 0.02
+2019-05-05 23:33:11,150:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:33:11,153:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.15124.video000000.mp4
+2019-05-05 23:33:11,308:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:33:11,321:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:33:11,973:INFO: Average reward: 3.12 +/- 0.08
+2019-05-05 23:33:12,511:INFO: Average reward: 3.19 +/- 0.09
+2019-05-05 23:33:13,047:INFO: Average reward: 3.25 +/- 0.08
+2019-05-05 23:33:13,571:INFO: Average reward: 3.16 +/- 0.09
+2019-05-05 23:33:14,101:INFO: Average reward: 2.93 +/- 0.07
+2019-05-05 23:33:14,634:INFO: Average reward: 2.95 +/- 0.07
+2019-05-05 23:33:15,194:INFO: Average reward: 3.08 +/- 0.08
+2019-05-05 23:33:15,748:INFO: Average reward: 2.84 +/- 0.06
+2019-05-05 23:33:16,301:INFO: Average reward: 2.81 +/- 0.05
+2019-05-05 23:33:16,847:INFO: Average reward: 2.73 +/- 0.05
+2019-05-05 23:33:17,396:INFO: Average reward: 2.71 +/- 0.05
+2019-05-05 23:33:17,978:INFO: Average reward: 2.77 +/- 0.05
+2019-05-05 23:33:18,556:INFO: Average reward: 2.62 +/- 0.04
+2019-05-05 23:33:19,117:INFO: Average reward: 2.58 +/- 0.04
+2019-05-05 23:33:19,792:INFO: Average reward: 2.60 +/- 0.04
+2019-05-05 23:33:20,388:INFO: Average reward: 2.57 +/- 0.04
+2019-05-05 23:33:20,975:INFO: Average reward: 2.48 +/- 0.03
+2019-05-05 23:33:21,540:INFO: Average reward: 2.51 +/- 0.03
+2019-05-05 23:33:22,149:INFO: Average reward: 2.43 +/- 0.03
+2019-05-05 23:33:22,734:INFO: Average reward: 2.45 +/- 0.03
+2019-05-05 23:33:23,389:INFO: Average reward: 2.42 +/- 0.03
+2019-05-05 23:33:23,979:INFO: Average reward: 2.48 +/- 0.03
+2019-05-05 23:33:24,554:INFO: Average reward: 2.48 +/- 0.03
+2019-05-05 23:33:25,119:INFO: Average reward: 2.56 +/- 0.03
+2019-05-05 23:33:25,699:INFO: Average reward: 2.45 +/- 0.03
+2019-05-05 23:33:26,282:INFO: Average reward: 2.43 +/- 0.03
+2019-05-05 23:33:26,849:INFO: Average reward: 2.47 +/- 0.03
+2019-05-05 23:33:27,450:INFO: Average reward: 2.47 +/- 0.03
+2019-05-05 23:33:28,014:INFO: Average reward: 2.46 +/- 0.03
+2019-05-05 23:33:28,613:INFO: Average reward: 2.41 +/- 0.03
+2019-05-05 23:33:29,274:INFO: Average reward: 2.40 +/- 0.03
+2019-05-05 23:33:29,967:INFO: Average reward: 2.37 +/- 0.03
+2019-05-05 23:33:30,610:INFO: Average reward: 2.42 +/- 0.03
+2019-05-05 23:33:31,213:INFO: Average reward: 2.39 +/- 0.03
+2019-05-05 23:33:31,788:INFO: Average reward: 2.38 +/- 0.03
+2019-05-05 23:33:32,418:INFO: Average reward: 2.32 +/- 0.03
+2019-05-05 23:33:33,081:INFO: Average reward: 2.28 +/- 0.03
+2019-05-05 23:33:33,761:INFO: Average reward: 2.22 +/- 0.02
+2019-05-05 23:33:34,453:INFO: Average reward: 2.20 +/- 0.02
+2019-05-05 23:33:35,133:INFO: Average reward: 2.13 +/- 0.02
+2019-05-05 23:33:35,799:INFO: Average reward: 2.07 +/- 0.01
+2019-05-05 23:33:36,433:INFO: Average reward: 2.06 +/- 0.01
+2019-05-05 23:33:37,088:INFO: Average reward: 2.02 +/- 0.01
+2019-05-05 23:33:37,711:INFO: Average reward: 2.01 +/- 0.00
+2019-05-05 23:33:38,391:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:33:39,004:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:33:39,622:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:33:40,262:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:33:40,937:INFO: Average reward: 1.97 +/- 0.01
+2019-05-05 23:33:41,665:INFO: Average reward: 1.95 +/- 0.01
+2019-05-05 23:33:42,328:INFO: Average reward: 1.93 +/- 0.01
+2019-05-05 23:33:43,024:INFO: Average reward: 1.83 +/- 0.02
+2019-05-05 23:33:43,771:INFO: Average reward: 1.65 +/- 0.02
+2019-05-05 23:33:44,501:INFO: Average reward: 1.47 +/- 0.02
+2019-05-05 23:33:45,247:INFO: Average reward: 1.31 +/- 0.02
+2019-05-05 23:33:46,014:INFO: Average reward: 1.20 +/- 0.01
+2019-05-05 23:33:46,802:INFO: Average reward: 1.14 +/- 0.01
+2019-05-05 23:33:47,612:INFO: Average reward: 1.12 +/- 0.01
+2019-05-05 23:33:48,424:INFO: Average reward: 1.11 +/- 0.01
+2019-05-05 23:33:49,236:INFO: Average reward: 1.10 +/- 0.01
+2019-05-05 23:33:50,054:INFO: Average reward: 1.12 +/- 0.01
+2019-05-05 23:33:50,856:INFO: Average reward: 1.09 +/- 0.01
+2019-05-05 23:33:51,651:INFO: Average reward: 1.15 +/- 0.01
+2019-05-05 23:33:52,437:INFO: Average reward: 1.14 +/- 0.01
+2019-05-05 23:33:53,223:INFO: Average reward: 1.15 +/- 0.01
+2019-05-05 23:33:54,007:INFO: Average reward: 1.16 +/- 0.01
+2019-05-05 23:33:54,804:INFO: Average reward: 1.13 +/- 0.01
+2019-05-05 23:33:55,597:INFO: Average reward: 1.12 +/- 0.01
+2019-05-05 23:33:56,403:INFO: Average reward: 1.10 +/- 0.01
+2019-05-05 23:33:57,236:INFO: Average reward: 1.09 +/- 0.01
+2019-05-05 23:33:58,036:INFO: Average reward: 1.08 +/- 0.01
+2019-05-05 23:33:58,863:INFO: Average reward: 1.05 +/- 0.01
+2019-05-05 23:33:59,710:INFO: Average reward: 1.04 +/- 0.01
+2019-05-05 23:34:00,562:INFO: Average reward: 1.03 +/- 0.01
+2019-05-05 23:34:01,389:INFO: Average reward: 1.03 +/- 0.01
+2019-05-05 23:34:02,234:INFO: Average reward: 1.02 +/- 0.00
+2019-05-05 23:34:03,077:INFO: Average reward: 1.01 +/- 0.00
+2019-05-05 23:34:03,920:INFO: Average reward: 1.01 +/- 0.00
+2019-05-05 23:34:04,772:INFO: Average reward: 1.01 +/- 0.00
+2019-05-05 23:34:05,601:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:06,473:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:07,411:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:08,452:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:09,657:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:10,850:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:11,798:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:12,702:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:13,577:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:14,615:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:15,672:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:16,661:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:17,709:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:18,583:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:19,438:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:20,281:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:21,123:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:21,978:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:22,866:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:23,683:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:24,506:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:24,506:INFO: - Training done.
+2019-05-05 23:34:24,687:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:34:24,691:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.1.15124.video000000.mp4
+2019-05-05 23:34:24,802:INFO: Average reward: 1.00 +/- 0.00
+2019-05-05 23:34:24,814:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:44:19,003:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:44:19,006:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.15877.video000000.mp4
+2019-05-05 23:44:19,178:INFO: Average reward: 3.00 +/- 0.00
+2019-05-05 23:44:19,190:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:44:19,822:INFO: Average reward: 3.91 +/- 0.13
+2019-05-05 23:44:20,322:INFO: Average reward: 3.80 +/- 0.11
+2019-05-05 23:44:20,831:INFO: Average reward: 3.71 +/- 0.11
+2019-05-05 23:44:21,369:INFO: Average reward: 3.57 +/- 0.09
+2019-05-05 23:44:21,878:INFO: Average reward: 3.50 +/- 0.09
+2019-05-05 23:44:22,393:INFO: Average reward: 3.56 +/- 0.09
+2019-05-05 23:44:22,903:INFO: Average reward: 3.44 +/- 0.09
+2019-05-05 23:44:23,455:INFO: Average reward: 3.21 +/- 0.07
+2019-05-05 23:44:23,990:INFO: Average reward: 3.16 +/- 0.07
+2019-05-05 23:44:24,520:INFO: Average reward: 3.17 +/- 0.07
+2019-05-05 23:45:21,004:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:45:21,007:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.16030.video000000.mp4
+2019-05-05 23:45:21,210:INFO: Average reward: 4.00 +/- 0.00
+2019-05-05 23:45:21,223:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:46:50,516:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:46:50,519:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.16220.video000000.mp4
+2019-05-05 23:46:50,669:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:47:13,569:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:47:13,573:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.16309.video000000.mp4
+2019-05-05 23:47:13,799:INFO: Average reward: 11.00 +/- 0.00
+2019-05-05 23:47:13,824:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:47:14,419:INFO: Average reward: 5.71 +/- 0.27
+2019-05-05 23:47:14,892:INFO: Average reward: 6.19 +/- 0.30
+2019-05-05 23:47:15,436:INFO: Average reward: 8.48 +/- 0.55
+2019-05-05 23:47:15,842:INFO: Average reward: 11.09 +/- 0.85
+2019-05-05 23:47:16,234:INFO: Average reward: 13.67 +/- 0.99
+2019-05-05 23:47:16,618:INFO: Average reward: 15.12 +/- 1.30
+2019-05-05 23:47:16,994:INFO: Average reward: 18.13 +/- 1.63
+2019-05-05 23:47:17,385:INFO: Average reward: 21.19 +/- 1.49
+2019-05-05 23:47:17,859:INFO: Average reward: 23.12 +/- 1.61
+2019-05-05 23:47:18,245:INFO: Average reward: 25.41 +/- 1.96
+2019-05-05 23:47:18,642:INFO: Average reward: 22.16 +/- 1.93
+2019-05-05 23:47:19,046:INFO: Average reward: 15.20 +/- 0.79
+2019-05-05 23:47:19,445:INFO: Average reward: 11.47 +/- 0.39
+2019-05-05 23:47:19,864:INFO: Average reward: 9.13 +/- 0.23
+2019-05-05 23:47:20,312:INFO: Average reward: 7.48 +/- 0.13
+2019-05-05 23:47:20,751:INFO: Average reward: 6.52 +/- 0.10
+2019-05-05 23:47:21,209:INFO: Average reward: 5.75 +/- 0.09
+2019-05-05 23:47:21,673:INFO: Average reward: 5.39 +/- 0.09
+2019-05-05 23:47:22,155:INFO: Average reward: 4.74 +/- 0.06
+2019-05-05 23:47:22,694:INFO: Average reward: 4.28 +/- 0.05
+2019-05-05 23:47:23,240:INFO: Average reward: 3.91 +/- 0.05
+2019-05-05 23:47:23,738:INFO: Average reward: 3.66 +/- 0.04
+2019-05-05 23:47:24,250:INFO: Average reward: 3.41 +/- 0.03
+2019-05-05 23:47:24,785:INFO: Average reward: 3.32 +/- 0.03
+2019-05-05 23:47:25,387:INFO: Average reward: 3.30 +/- 0.03
+2019-05-05 23:47:25,920:INFO: Average reward: 3.18 +/- 0.02
+2019-05-05 23:47:26,450:INFO: Average reward: 3.12 +/- 0.02
+2019-05-05 23:47:27,000:INFO: Average reward: 3.04 +/- 0.01
+2019-05-05 23:47:27,540:INFO: Average reward: 3.01 +/- 0.01
+2019-05-05 23:47:28,115:INFO: Average reward: 3.01 +/- 0.01
+2019-05-05 23:47:28,686:INFO: Average reward: 3.00 +/- 0.00
+2019-05-05 23:47:29,259:INFO: Average reward: 3.01 +/- 0.01
+2019-05-05 23:47:29,823:INFO: Average reward: 3.01 +/- 0.01
+2019-05-05 23:47:30,401:INFO: Average reward: 3.02 +/- 0.01
+2019-05-05 23:47:30,912:INFO: Average reward: 3.03 +/- 0.01
+2019-05-05 23:47:31,429:INFO: Average reward: 3.06 +/- 0.02
+2019-05-05 23:47:31,950:INFO: Average reward: 3.06 +/- 0.02
+2019-05-05 23:47:32,472:INFO: Average reward: 3.11 +/- 0.03
+2019-05-05 23:47:32,992:INFO: Average reward: 3.11 +/- 0.02
+2019-05-05 23:47:33,508:INFO: Average reward: 3.17 +/- 0.03
+2019-05-05 23:47:34,020:INFO: Average reward: 3.23 +/- 0.04
+2019-05-05 23:47:34,603:INFO: Average reward: 3.24 +/- 0.04
+2019-05-05 23:47:35,206:INFO: Average reward: 3.33 +/- 0.04
+2019-05-05 23:47:35,712:INFO: Average reward: 3.36 +/- 0.04
+2019-05-05 23:47:36,228:INFO: Average reward: 3.38 +/- 0.05
+2019-05-05 23:47:36,768:INFO: Average reward: 3.55 +/- 0.05
+2019-05-05 23:47:37,337:INFO: Average reward: 3.51 +/- 0.05
+2019-05-05 23:47:37,833:INFO: Average reward: 3.59 +/- 0.06
+2019-05-05 23:47:38,331:INFO: Average reward: 3.59 +/- 0.05
+2019-05-05 23:47:38,819:INFO: Average reward: 3.71 +/- 0.06
+2019-05-05 23:47:39,307:INFO: Average reward: 3.76 +/- 0.07
+2019-05-05 23:47:39,795:INFO: Average reward: 3.73 +/- 0.06
+2019-05-05 23:47:40,287:INFO: Average reward: 3.69 +/- 0.06
+2019-05-05 23:47:40,896:INFO: Average reward: 3.66 +/- 0.06
+2019-05-05 23:47:41,498:INFO: Average reward: 3.68 +/- 0.06
+2019-05-05 23:47:42,045:INFO: Average reward: 3.49 +/- 0.05
+2019-05-05 23:47:42,541:INFO: Average reward: 3.65 +/- 0.07
+2019-05-05 23:47:43,047:INFO: Average reward: 3.65 +/- 0.06
+2019-05-05 23:47:43,632:INFO: Average reward: 3.54 +/- 0.06
+2019-05-05 23:47:44,184:INFO: Average reward: 3.58 +/- 0.06
+2019-05-05 23:47:44,781:INFO: Average reward: 3.53 +/- 0.06
+2019-05-05 23:47:45,294:INFO: Average reward: 3.49 +/- 0.06
+2019-05-05 23:47:45,835:INFO: Average reward: 3.30 +/- 0.06
+2019-05-05 23:48:25,966:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:48:25,970:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.16440.video000000.mp4
+2019-05-05 23:48:26,250:INFO: Average reward: 17.00 +/- 0.00
+2019-05-05 23:48:26,279:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:48:26,845:INFO: Average reward: 11.16 +/- 0.51
+2019-05-05 23:48:27,350:INFO: Average reward: 6.59 +/- 0.14
+2019-05-05 23:48:27,872:INFO: Average reward: 5.15 +/- 0.08
+2019-05-05 23:48:28,392:INFO: Average reward: 4.32 +/- 0.04
+2019-05-05 23:48:28,958:INFO: Average reward: 3.72 +/- 0.03
+2019-05-05 23:48:29,622:INFO: Average reward: 3.22 +/- 0.02
+2019-05-05 23:48:30,251:INFO: Average reward: 3.02 +/- 0.01
+2019-05-05 23:48:30,879:INFO: Average reward: 3.00 +/- 0.00
+2019-05-05 23:48:31,513:INFO: Average reward: 2.93 +/- 0.01
+2019-05-05 23:48:32,176:INFO: Average reward: 2.56 +/- 0.03
+2019-05-05 23:48:32,909:INFO: Average reward: 2.09 +/- 0.01
+2019-05-05 23:48:33,646:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:34,387:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:35,146:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:35,881:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:36,615:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:37,364:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:38,099:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:38,836:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:39,575:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:40,315:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:41,047:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:41,781:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:42,529:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:43,262:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:43,996:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:44,752:INFO: Average reward: 2.00 +/- 0.00
+2019-05-05 23:48:54,867:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:48:54,871:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.16573.video000000.mp4
+2019-05-05 23:48:55,075:INFO: Average reward: 6.00 +/- 0.00
+2019-05-05 23:48:55,090:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:48:55,655:INFO: Average reward: 11.22 +/- 0.53
+2019-05-05 23:48:56,150:INFO: Average reward: 7.14 +/- 0.21
+2019-05-05 23:48:56,678:INFO: Average reward: 5.34 +/- 0.07
+2019-05-05 23:48:57,245:INFO: Average reward: 4.35 +/- 0.04
+2019-05-05 23:48:57,786:INFO: Average reward: 3.88 +/- 0.03
+2019-05-05 23:52:29,453:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:52:29,457:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.16930.video000000.mp4
+2019-05-05 23:52:29,648:INFO: Average reward: 6.00 +/- 0.00
+2019-05-05 23:52:29,665:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:52:30,273:INFO: Average reward: 7.78 +/- 0.41
+2019-05-05 23:52:30,720:INFO: Average reward: 7.87 +/- 0.39
+2019-05-05 23:52:31,151:INFO: Average reward: 10.99 +/- 1.02
+2019-05-05 23:52:31,605:INFO: Average reward: 11.78 +/- 0.87
+2019-05-05 23:52:32,010:INFO: Average reward: 15.83 +/- 1.23
+2019-05-05 23:52:32,448:INFO: Average reward: 17.33 +/- 1.78
+2019-05-05 23:52:32,857:INFO: Average reward: 24.05 +/- 2.39
+2019-05-05 23:52:33,244:INFO: Average reward: 26.86 +/- 2.74
+2019-05-05 23:52:33,683:INFO: Average reward: 31.19 +/- 3.17
+2019-05-05 23:52:34,076:INFO: Average reward: 33.17 +/- 2.92
+2019-05-05 23:52:34,477:INFO: Average reward: 42.09 +/- 5.07
+2019-05-05 23:52:34,863:INFO: Average reward: 48.45 +/- 4.14
+2019-05-05 23:52:35,257:INFO: Average reward: 45.29 +/- 4.53
+2019-05-05 23:52:35,662:INFO: Average reward: 60.12 +/- 5.42
+2019-05-05 23:52:36,078:INFO: Average reward: 54.72 +/- 3.71
+2019-05-05 23:52:36,477:INFO: Average reward: 31.16 +/- 1.69
+2019-05-05 23:52:36,926:INFO: Average reward: 14.63 +/- 0.39
+2019-05-05 23:52:37,382:INFO: Average reward: 11.01 +/- 0.20
+2019-05-05 23:52:37,842:INFO: Average reward: 9.21 +/- 0.14
+2019-05-05 23:52:38,319:INFO: Average reward: 7.60 +/- 0.11
+2019-05-05 23:52:38,815:INFO: Average reward: 6.63 +/- 0.08
+2019-05-05 23:52:39,309:INFO: Average reward: 5.84 +/- 0.08
+2019-05-05 23:52:39,836:INFO: Average reward: 4.89 +/- 0.06
+2019-05-05 23:52:40,369:INFO: Average reward: 4.56 +/- 0.05
+2019-05-05 23:52:40,935:INFO: Average reward: 4.24 +/- 0.04
+2019-05-05 23:52:41,546:INFO: Average reward: 3.96 +/- 0.04
+2019-05-05 23:52:42,143:INFO: Average reward: 3.73 +/- 0.04
+2019-05-05 23:52:42,753:INFO: Average reward: 3.49 +/- 0.03
+2019-05-05 23:52:43,434:INFO: Average reward: 3.39 +/- 0.03
+2019-05-05 23:52:44,075:INFO: Average reward: 3.23 +/- 0.03
+2019-05-05 23:52:44,830:INFO: Average reward: 3.20 +/- 0.03
+2019-05-05 23:52:45,464:INFO: Average reward: 3.09 +/- 0.02
+2019-05-05 23:52:46,085:INFO: Average reward: 2.98 +/- 0.02
+2019-05-05 23:52:46,758:INFO: Average reward: 2.69 +/- 0.02
+2019-05-05 23:52:47,396:INFO: Average reward: 2.32 +/- 0.02
+2019-05-05 23:52:48,098:INFO: Average reward: 2.19 +/- 0.02
+2019-05-05 23:52:48,803:INFO: Average reward: 2.12 +/- 0.01
+2019-05-05 23:52:49,501:INFO: Average reward: 2.11 +/- 0.01
+2019-05-05 23:52:50,250:INFO: Average reward: 2.11 +/- 0.01
+2019-05-05 23:52:51,053:INFO: Average reward: 2.12 +/- 0.02
+2019-05-05 23:52:51,731:INFO: Average reward: 2.15 +/- 0.02
+2019-05-05 23:52:52,394:INFO: Average reward: 2.20 +/- 0.02
+2019-05-05 23:53:25,615:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:53:25,619:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.17068.video000000.mp4
+2019-05-05 23:53:25,818:INFO: Average reward: 7.00 +/- 0.00
+2019-05-05 23:53:25,835:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:53:26,496:INFO: Average reward: 4.62 +/- 0.14
+2019-05-05 23:53:27,025:INFO: Average reward: 4.39 +/- 0.13
+2019-05-05 23:53:27,570:INFO: Average reward: 4.21 +/- 0.11
+2019-05-05 23:53:28,115:INFO: Average reward: 3.99 +/- 0.09
+2019-05-05 23:53:28,680:INFO: Average reward: 3.76 +/- 0.08
+2019-05-05 23:53:29,273:INFO: Average reward: 3.76 +/- 0.07
+2019-05-05 23:53:29,879:INFO: Average reward: 3.55 +/- 0.07
+2019-05-05 23:53:30,465:INFO: Average reward: 3.50 +/- 0.06
+2019-05-05 23:53:31,075:INFO: Average reward: 3.33 +/- 0.06
+2019-05-05 23:53:31,669:INFO: Average reward: 3.17 +/- 0.04
+2019-05-05 23:53:32,271:INFO: Average reward: 3.16 +/- 0.04
+2019-05-05 23:53:32,903:INFO: Average reward: 3.03 +/- 0.04
+2019-05-05 23:53:33,547:INFO: Average reward: 3.03 +/- 0.04
+2019-05-05 23:53:34,162:INFO: Average reward: 3.00 +/- 0.04
+2019-05-05 23:53:34,793:INFO: Average reward: 2.92 +/- 0.04
+2019-05-05 23:53:35,437:INFO: Average reward: 2.83 +/- 0.03
+2019-05-05 23:53:36,079:INFO: Average reward: 2.82 +/- 0.03
+2019-05-05 23:53:36,713:INFO: Average reward: 2.79 +/- 0.03
+2019-05-05 23:53:37,362:INFO: Average reward: 2.77 +/- 0.03
+2019-05-05 23:53:38,004:INFO: Average reward: 2.77 +/- 0.03
+2019-05-05 23:53:38,661:INFO: Average reward: 2.76 +/- 0.04
+2019-05-05 23:53:51,344:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:53:51,347:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.17198.video000000.mp4
+2019-05-05 23:53:51,560:INFO: Average reward: 8.00 +/- 0.00
+2019-05-05 23:53:51,577:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:53:52,147:INFO: Average reward: 8.28 +/- 0.35
+2019-05-05 23:53:52,640:INFO: Average reward: 7.08 +/- 0.28
+2019-05-05 23:53:53,096:INFO: Average reward: 6.37 +/- 0.21
+2019-05-05 23:53:53,582:INFO: Average reward: 5.51 +/- 0.16
+2019-05-05 23:53:54,101:INFO: Average reward: 4.88 +/- 0.11
+2019-05-05 23:53:54,655:INFO: Average reward: 4.54 +/- 0.11
+2019-05-05 23:53:55,223:INFO: Average reward: 4.11 +/- 0.10
+2019-05-05 23:53:55,778:INFO: Average reward: 3.45 +/- 0.05
+2019-05-05 23:53:56,353:INFO: Average reward: 3.26 +/- 0.04
+2019-05-05 23:53:56,938:INFO: Average reward: 3.05 +/- 0.02
+2019-05-05 23:53:57,532:INFO: Average reward: 2.90 +/- 0.02
+2019-05-05 23:53:58,144:INFO: Average reward: 2.70 +/- 0.02
+2019-05-05 23:53:58,785:INFO: Average reward: 2.44 +/- 0.02
+2019-05-05 23:56:29,577:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:56:29,580:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.17391.video000000.mp4
+2019-05-05 23:56:29,848:INFO: Average reward: 15.00 +/- 0.00
+2019-05-05 23:56:29,873:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:57:11,465:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:57:11,468:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.17535.video000000.mp4
+2019-05-05 23:57:11,641:INFO: Average reward: 4.00 +/- 0.00
+2019-05-05 23:57:11,656:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:57:12,261:INFO: Average reward: 6.70 +/- 0.34
+2019-05-05 23:57:12,745:INFO: Average reward: 5.95 +/- 0.23
+2019-05-05 23:57:13,261:INFO: Average reward: 5.21 +/- 0.18
+2019-05-05 23:57:13,735:INFO: Average reward: 4.83 +/- 0.15
+2019-05-05 23:57:14,276:INFO: Average reward: 4.12 +/- 0.10
+2019-05-05 23:57:14,792:INFO: Average reward: 3.87 +/- 0.10
+2019-05-05 23:57:15,347:INFO: Average reward: 3.56 +/- 0.07
+2019-05-05 23:57:15,930:INFO: Average reward: 3.33 +/- 0.06
+2019-05-05 23:57:16,556:INFO: Average reward: 2.96 +/- 0.04
+2019-05-05 23:57:17,185:INFO: Average reward: 2.76 +/- 0.03
+2019-05-05 23:57:17,847:INFO: Average reward: 2.49 +/- 0.03
+2019-05-05 23:57:18,532:INFO: Average reward: 2.34 +/- 0.02
+2019-05-05 23:58:29,750:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:58:29,753:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.17651.video000000.mp4
+2019-05-05 23:58:29,925:INFO: Average reward: 4.00 +/- 0.00
+2019-05-05 23:58:29,938:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:58:30,641:INFO: Average reward: 3.57 +/- 0.11
+2019-05-05 23:58:31,230:INFO: Average reward: 3.60 +/- 0.12
+2019-05-05 23:58:31,794:INFO: Average reward: 3.38 +/- 0.10
+2019-05-05 23:58:32,393:INFO: Average reward: 3.42 +/- 0.10
+2019-05-05 23:58:32,988:INFO: Average reward: 3.35 +/- 0.11
+2019-05-05 23:58:33,609:INFO: Average reward: 3.36 +/- 0.09
+2019-05-05 23:58:34,190:INFO: Average reward: 3.40 +/- 0.10
+2019-05-05 23:58:34,793:INFO: Average reward: 3.14 +/- 0.08
+2019-05-05 23:58:35,411:INFO: Average reward: 3.09 +/- 0.07
+2019-05-05 23:58:36,038:INFO: Average reward: 3.02 +/- 0.07
+2019-05-05 23:58:36,667:INFO: Average reward: 2.99 +/- 0.07
+2019-05-05 23:58:37,283:INFO: Average reward: 2.94 +/- 0.06
+2019-05-05 23:58:37,900:INFO: Average reward: 2.86 +/- 0.05
+2019-05-05 23:58:38,544:INFO: Average reward: 2.80 +/- 0.05
+2019-05-05 23:58:39,181:INFO: Average reward: 2.77 +/- 0.04
+2019-05-05 23:58:55,211:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:58:55,215:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.17779.video000000.mp4
+2019-05-05 23:58:55,434:INFO: Average reward: 10.00 +/- 0.00
+2019-05-05 23:58:55,454:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-05 23:58:56,060:INFO: Average reward: 9.24 +/- 0.31
+2019-05-05 23:58:56,565:INFO: Average reward: 8.91 +/- 0.36
+2019-05-05 23:58:57,033:INFO: Average reward: 8.82 +/- 0.34
+2019-05-05 23:58:57,510:INFO: Average reward: 9.49 +/- 0.40
+2019-05-05 23:58:57,992:INFO: Average reward: 9.43 +/- 0.38
+2019-05-05 23:58:58,463:INFO: Average reward: 9.01 +/- 0.35
+2019-05-05 23:58:58,970:INFO: Average reward: 9.08 +/- 0.35
+2019-05-05 23:58:59,448:INFO: Average reward: 9.47 +/- 0.40
+2019-05-05 23:58:59,916:INFO: Average reward: 9.61 +/- 0.39
+2019-05-05 23:59:00,389:INFO: Average reward: 9.56 +/- 0.44
+2019-05-05 23:59:00,850:INFO: Average reward: 9.87 +/- 0.45
+2019-05-05 23:59:01,309:INFO: Average reward: 9.43 +/- 0.42
+2019-05-05 23:59:01,788:INFO: Average reward: 9.16 +/- 0.39
+2019-05-05 23:59:02,253:INFO: Average reward: 9.31 +/- 0.36
+2019-05-05 23:59:02,735:INFO: Average reward: 8.74 +/- 0.38
+2019-05-05 23:59:03,203:INFO: Average reward: 9.15 +/- 0.42
+2019-05-05 23:59:03,680:INFO: Average reward: 9.42 +/- 0.45
+2019-05-05 23:59:04,179:INFO: Average reward: 9.23 +/- 0.31
+2019-05-05 23:59:04,675:INFO: Average reward: 9.24 +/- 0.42
+2019-05-05 23:59:05,143:INFO: Average reward: 8.92 +/- 0.32
+2019-05-05 23:59:05,610:INFO: Average reward: 9.62 +/- 0.42
+2019-05-05 23:59:06,133:INFO: Average reward: 9.03 +/- 0.33
+2019-05-05 23:59:06,633:INFO: Average reward: 9.25 +/- 0.38
+2019-05-05 23:59:07,095:INFO: Average reward: 9.71 +/- 0.44
+2019-05-05 23:59:07,560:INFO: Average reward: 9.71 +/- 0.42
+2019-05-05 23:59:08,026:INFO: Average reward: 9.49 +/- 0.38
+2019-05-05 23:59:08,494:INFO: Average reward: 8.77 +/- 0.31
+2019-05-05 23:59:08,962:INFO: Average reward: 9.68 +/- 0.40
+2019-05-05 23:59:09,439:INFO: Average reward: 9.42 +/- 0.36
+2019-05-05 23:59:09,916:INFO: Average reward: 9.75 +/- 0.38
+2019-05-05 23:59:10,387:INFO: Average reward: 8.83 +/- 0.32
+2019-05-05 23:59:10,853:INFO: Average reward: 9.62 +/- 0.49
+2019-05-05 23:59:11,344:INFO: Average reward: 8.88 +/- 0.32
+2019-05-05 23:59:11,905:INFO: Average reward: 9.19 +/- 0.36
+2019-05-05 23:59:12,427:INFO: Average reward: 8.74 +/- 0.35
+2019-05-05 23:59:12,965:INFO: Average reward: 9.52 +/- 0.40
+2019-05-05 23:59:13,599:INFO: Average reward: 9.79 +/- 0.42
+2019-05-05 23:59:14,111:INFO: Average reward: 8.88 +/- 0.32
+2019-05-05 23:59:14,588:INFO: Average reward: 9.13 +/- 0.35
+2019-05-05 23:59:15,058:INFO: Average reward: 9.65 +/- 0.42
+2019-05-05 23:59:15,549:INFO: Average reward: 9.03 +/- 0.38
+2019-05-05 23:59:16,015:INFO: Average reward: 8.97 +/- 0.30
+2019-05-05 23:59:16,509:INFO: Average reward: 9.14 +/- 0.34
+2019-05-05 23:59:17,024:INFO: Average reward: 8.86 +/- 0.34
+2019-05-05 23:59:17,505:INFO: Average reward: 9.43 +/- 0.38
+2019-05-05 23:59:18,014:INFO: Average reward: 9.57 +/- 0.38
+2019-05-05 23:59:18,498:INFO: Average reward: 8.72 +/- 0.32
+2019-05-05 23:59:18,971:INFO: Average reward: 9.28 +/- 0.37
+2019-05-05 23:59:19,432:INFO: Average reward: 9.42 +/- 0.38
+2019-05-05 23:59:19,955:INFO: Average reward: 9.00 +/- 0.36
+2019-05-05 23:59:20,431:INFO: Average reward: 9.31 +/- 0.34
+2019-05-05 23:59:20,923:INFO: Average reward: 9.15 +/- 0.35
+2019-05-05 23:59:21,410:INFO: Average reward: 9.14 +/- 0.37
+2019-05-05 23:59:21,877:INFO: Average reward: 9.17 +/- 0.38
+2019-05-05 23:59:22,390:INFO: Average reward: 9.17 +/- 0.35
+2019-05-05 23:59:22,865:INFO: Average reward: 9.21 +/- 0.35
+2019-05-05 23:59:23,379:INFO: Average reward: 8.72 +/- 0.31
+2019-05-05 23:59:23,861:INFO: Average reward: 9.87 +/- 0.40
+2019-05-05 23:59:24,428:INFO: Average reward: 9.03 +/- 0.35
+2019-05-05 23:59:25,058:INFO: Average reward: 9.68 +/- 0.40
+2019-05-05 23:59:25,706:INFO: Average reward: 10.03 +/- 0.50
+2019-05-05 23:59:26,221:INFO: Average reward: 8.54 +/- 0.27
+2019-05-05 23:59:26,739:INFO: Average reward: 9.07 +/- 0.33
+2019-05-05 23:59:27,260:INFO: Average reward: 8.61 +/- 0.32
+2019-05-05 23:59:27,751:INFO: Average reward: 9.35 +/- 0.37
+2019-05-05 23:59:28,271:INFO: Average reward: 8.87 +/- 0.31
+2019-05-05 23:59:28,798:INFO: Average reward: 8.70 +/- 0.30
+2019-05-05 23:59:29,326:INFO: Average reward: 9.10 +/- 0.34
+2019-05-05 23:59:29,885:INFO: Average reward: 8.81 +/- 0.30
+2019-05-05 23:59:30,390:INFO: Average reward: 9.80 +/- 0.35
+2019-05-05 23:59:30,852:INFO: Average reward: 9.32 +/- 0.35
+2019-05-05 23:59:31,375:INFO: Average reward: 8.99 +/- 0.35
+2019-05-05 23:59:31,868:INFO: Average reward: 9.68 +/- 0.46
+2019-05-05 23:59:32,447:INFO: Average reward: 9.60 +/- 0.39
+2019-05-05 23:59:33,086:INFO: Average reward: 9.06 +/- 0.30
+2019-05-05 23:59:33,596:INFO: Average reward: 9.55 +/- 0.42
+2019-05-05 23:59:34,068:INFO: Average reward: 9.61 +/- 0.45
+2019-05-05 23:59:34,588:INFO: Average reward: 9.28 +/- 0.34
+2019-05-05 23:59:35,116:INFO: Average reward: 9.09 +/- 0.38
+2019-05-05 23:59:35,758:INFO: Average reward: 9.57 +/- 0.40
+2019-05-05 23:59:36,367:INFO: Average reward: 9.34 +/- 0.32
+2019-05-05 23:59:36,934:INFO: Average reward: 9.60 +/- 0.43
+2019-05-05 23:59:37,531:INFO: Average reward: 9.40 +/- 0.44
+2019-05-05 23:59:38,050:INFO: Average reward: 9.43 +/- 0.39
+2019-05-05 23:59:38,572:INFO: Average reward: 9.73 +/- 0.41
+2019-05-05 23:59:39,077:INFO: Average reward: 10.30 +/- 0.52
+2019-05-05 23:59:39,595:INFO: Average reward: 9.24 +/- 0.35
+2019-05-05 23:59:40,095:INFO: Average reward: 9.86 +/- 0.42
+2019-05-05 23:59:40,609:INFO: Average reward: 9.87 +/- 0.43
+2019-05-05 23:59:41,209:INFO: Average reward: 9.80 +/- 0.36
+2019-05-05 23:59:41,788:INFO: Average reward: 10.18 +/- 0.45
+2019-05-05 23:59:42,279:INFO: Average reward: 10.53 +/- 0.57
+2019-05-05 23:59:42,746:INFO: Average reward: 9.49 +/- 0.42
+2019-05-05 23:59:43,265:INFO: Average reward: 9.41 +/- 0.35
+2019-05-05 23:59:43,775:INFO: Average reward: 9.41 +/- 0.43
+2019-05-05 23:59:44,284:INFO: Average reward: 9.18 +/- 0.36
+2019-05-05 23:59:44,792:INFO: Average reward: 8.67 +/- 0.33
+2019-05-05 23:59:45,289:INFO: Average reward: 9.62 +/- 0.39
+2019-05-05 23:59:45,810:INFO: Average reward: 9.44 +/- 0.37
+2019-05-05 23:59:46,317:INFO: Average reward: 9.88 +/- 0.44
+2019-05-05 23:59:46,317:INFO: - Training done.
+2019-05-05 23:59:46,568:INFO: Making new env: InvertedPendulum-v1
+2019-05-05 23:59:46,572:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.1.17779.video000000.mp4
+2019-05-05 23:59:46,722:INFO: Average reward: 6.00 +/- 0.00
+2019-05-05 23:59:46,737:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:00:14,741:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:00:14,745:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.17940.video000000.mp4
+2019-05-06 00:00:14,923:INFO: Average reward: 5.00 +/- 0.00
+2019-05-06 00:00:14,938:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:00:15,501:INFO: Average reward: 11.08 +/- 0.70
+2019-05-06 00:00:15,940:INFO: Average reward: 9.14 +/- 0.32
+2019-05-06 00:00:16,396:INFO: Average reward: 7.26 +/- 0.19
+2019-05-06 00:00:16,857:INFO: Average reward: 6.76 +/- 0.18
+2019-05-06 00:00:17,326:INFO: Average reward: 6.40 +/- 0.16
+2019-05-06 00:00:17,818:INFO: Average reward: 5.84 +/- 0.12
+2019-05-06 00:00:18,317:INFO: Average reward: 5.56 +/- 0.12
+2019-05-06 00:00:18,907:INFO: Average reward: 4.97 +/- 0.09
+2019-05-06 00:00:19,524:INFO: Average reward: 4.94 +/- 0.10
+2019-05-06 00:00:20,057:INFO: Average reward: 4.62 +/- 0.07
+2019-05-06 00:00:20,578:INFO: Average reward: 4.22 +/- 0.06
+2019-05-06 00:00:21,180:INFO: Average reward: 4.22 +/- 0.06
+2019-05-06 00:00:21,760:INFO: Average reward: 3.90 +/- 0.05
+2019-05-06 00:00:22,302:INFO: Average reward: 3.95 +/- 0.06
+2019-05-06 00:00:22,857:INFO: Average reward: 3.79 +/- 0.05
+2019-05-06 00:00:23,420:INFO: Average reward: 3.59 +/- 0.04
+2019-05-06 00:00:23,988:INFO: Average reward: 3.51 +/- 0.04
+2019-05-06 00:00:24,558:INFO: Average reward: 3.41 +/- 0.04
+2019-05-06 00:00:25,173:INFO: Average reward: 3.24 +/- 0.03
+2019-05-06 00:00:25,753:INFO: Average reward: 3.26 +/- 0.03
+2019-05-06 00:00:26,344:INFO: Average reward: 3.11 +/- 0.03
+2019-05-06 00:00:26,947:INFO: Average reward: 2.99 +/- 0.03
+2019-05-06 00:00:27,549:INFO: Average reward: 2.92 +/- 0.03
+2019-05-06 00:00:28,164:INFO: Average reward: 2.77 +/- 0.03
+2019-05-06 00:00:28,828:INFO: Average reward: 2.62 +/- 0.03
+2019-05-06 00:00:29,481:INFO: Average reward: 2.48 +/- 0.03
+2019-05-06 00:00:30,150:INFO: Average reward: 2.34 +/- 0.02
+2019-05-06 00:00:30,824:INFO: Average reward: 2.21 +/- 0.02
+2019-05-06 00:00:31,533:INFO: Average reward: 2.13 +/- 0.02
+2019-05-06 00:00:32,199:INFO: Average reward: 2.06 +/- 0.01
+2019-05-06 00:00:32,908:INFO: Average reward: 2.01 +/- 0.01
+2019-05-06 00:00:33,625:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:34,381:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:35,118:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:35,849:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:36,610:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:37,341:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:38,082:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:38,816:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:39,548:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:40,279:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:41,015:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:41,757:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:42,491:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:43,227:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:43,996:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:00:44,791:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:01:04,003:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:01:04,006:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.18055.video000000.mp4
+2019-05-06 00:01:04,171:INFO: Average reward: 4.00 +/- 0.00
+2019-05-06 00:01:04,184:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:01:04,771:INFO: Average reward: 6.65 +/- 0.24
+2019-05-06 00:01:05,252:INFO: Average reward: 5.65 +/- 0.19
+2019-05-06 00:01:05,771:INFO: Average reward: 5.22 +/- 0.16
+2019-05-06 00:01:06,305:INFO: Average reward: 4.73 +/- 0.11
+2019-05-06 00:01:06,811:INFO: Average reward: 4.48 +/- 0.09
+2019-05-06 00:01:07,354:INFO: Average reward: 4.11 +/- 0.07
+2019-05-06 00:01:07,940:INFO: Average reward: 4.00 +/- 0.07
+2019-05-06 00:01:08,476:INFO: Average reward: 3.85 +/- 0.07
+2019-05-06 00:01:09,033:INFO: Average reward: 3.55 +/- 0.05
+2019-05-06 00:01:09,591:INFO: Average reward: 3.47 +/- 0.05
+2019-05-06 00:01:10,212:INFO: Average reward: 3.28 +/- 0.04
+2019-05-06 00:01:10,876:INFO: Average reward: 3.09 +/- 0.03
+2019-05-06 00:01:11,618:INFO: Average reward: 2.89 +/- 0.03
+2019-05-06 00:01:12,255:INFO: Average reward: 2.69 +/- 0.03
+2019-05-06 00:01:12,927:INFO: Average reward: 2.43 +/- 0.02
+2019-05-06 00:01:13,627:INFO: Average reward: 2.30 +/- 0.02
+2019-05-06 00:01:14,355:INFO: Average reward: 2.25 +/- 0.02
+2019-05-06 00:01:15,115:INFO: Average reward: 2.26 +/- 0.02
+2019-05-06 00:01:15,806:INFO: Average reward: 2.27 +/- 0.02
+2019-05-06 00:01:16,532:INFO: Average reward: 2.25 +/- 0.02
+2019-05-06 00:01:17,244:INFO: Average reward: 2.21 +/- 0.02
+2019-05-06 00:01:17,984:INFO: Average reward: 2.21 +/- 0.02
+2019-05-06 00:01:18,692:INFO: Average reward: 2.23 +/- 0.02
+2019-05-06 00:01:19,470:INFO: Average reward: 2.22 +/- 0.02
+2019-05-06 00:01:20,185:INFO: Average reward: 2.18 +/- 0.02
+2019-05-06 00:01:20,904:INFO: Average reward: 2.17 +/- 0.02
+2019-05-06 00:01:21,626:INFO: Average reward: 2.11 +/- 0.01
+2019-05-06 00:01:22,258:INFO: Average reward: 2.09 +/- 0.01
+2019-05-06 00:01:22,894:INFO: Average reward: 2.07 +/- 0.01
+2019-05-06 00:01:23,661:INFO: Average reward: 2.05 +/- 0.01
+2019-05-06 00:01:24,426:INFO: Average reward: 2.03 +/- 0.01
+2019-05-06 00:01:25,236:INFO: Average reward: 2.02 +/- 0.01
+2019-05-06 00:01:25,871:INFO: Average reward: 2.01 +/- 0.00
+2019-05-06 00:01:26,528:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:01:27,308:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:01:28,029:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:01:28,858:INFO: Average reward: 2.00 +/- 0.00
+2019-05-06 00:01:51,564:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:01:51,568:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.18194.video000000.mp4
+2019-05-06 00:01:51,787:INFO: Average reward: 10.00 +/- 0.00
+2019-05-06 00:01:51,807:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:01:52,385:INFO: Average reward: 6.63 +/- 0.31
+2019-05-06 00:01:52,812:INFO: Average reward: 7.46 +/- 0.39
+2019-05-06 00:01:53,245:INFO: Average reward: 6.75 +/- 0.30
+2019-05-06 00:01:53,716:INFO: Average reward: 6.90 +/- 0.34
+2019-05-06 00:01:54,132:INFO: Average reward: 8.06 +/- 0.38
+2019-05-06 00:01:54,554:INFO: Average reward: 7.24 +/- 0.30
+2019-05-06 00:01:54,975:INFO: Average reward: 7.41 +/- 0.38
+2019-05-06 00:01:55,401:INFO: Average reward: 7.90 +/- 0.43
+2019-05-06 00:01:55,860:INFO: Average reward: 7.81 +/- 0.36
+2019-05-06 00:01:56,296:INFO: Average reward: 7.49 +/- 0.41
+2019-05-06 00:02:16,250:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:02:16,253:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.18291.video000000.mp4
+2019-05-06 00:02:16,447:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:02:16,459:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:02:17,105:INFO: Average reward: 3.71 +/- 0.13
+2019-05-06 00:02:17,611:INFO: Average reward: 3.64 +/- 0.12
+2019-05-06 00:02:18,116:INFO: Average reward: 3.78 +/- 0.13
+2019-05-06 00:02:18,643:INFO: Average reward: 3.94 +/- 0.14
+2019-05-06 00:02:19,152:INFO: Average reward: 4.06 +/- 0.15
+2019-05-06 00:02:19,675:INFO: Average reward: 4.50 +/- 0.20
+2019-05-06 00:02:20,174:INFO: Average reward: 4.25 +/- 0.15
+2019-05-06 00:02:20,686:INFO: Average reward: 4.59 +/- 0.19
+2019-05-06 00:02:21,179:INFO: Average reward: 4.48 +/- 0.19
+2019-05-06 00:02:21,668:INFO: Average reward: 4.24 +/- 0.17
+2019-05-06 00:02:22,158:INFO: Average reward: 4.31 +/- 0.17
+2019-05-06 00:02:22,670:INFO: Average reward: 3.94 +/- 0.12
+2019-05-06 00:02:23,186:INFO: Average reward: 3.69 +/- 0.11
+2019-05-06 00:02:23,692:INFO: Average reward: 3.59 +/- 0.10
+2019-05-06 00:02:24,247:INFO: Average reward: 3.45 +/- 0.08
+2019-05-06 00:02:24,882:INFO: Average reward: 3.25 +/- 0.07
+2019-05-06 00:02:25,554:INFO: Average reward: 3.11 +/- 0.06
+2019-05-06 00:02:26,126:INFO: Average reward: 2.98 +/- 0.05
+2019-05-06 00:02:26,665:INFO: Average reward: 2.99 +/- 0.05
+2019-05-06 00:02:27,222:INFO: Average reward: 2.87 +/- 0.05
+2019-05-06 00:02:27,783:INFO: Average reward: 2.78 +/- 0.05
+2019-05-06 00:02:28,368:INFO: Average reward: 2.64 +/- 0.05
+2019-05-06 00:02:29,073:INFO: Average reward: 2.56 +/- 0.04
+2019-05-06 00:02:29,711:INFO: Average reward: 2.49 +/- 0.04
+2019-05-06 00:02:30,307:INFO: Average reward: 2.37 +/- 0.03
+2019-05-06 00:13:30,001:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:13:30,004:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.18849.video000000.mp4
+2019-05-06 00:13:30,181:INFO: Average reward: 4.00 +/- 0.00
+2019-05-06 00:13:30,195:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:13:30,827:INFO: Average reward: 4.69 +/- 0.21
+2019-05-06 00:13:31,365:INFO: Average reward: 4.04 +/- 0.14
+2019-05-06 00:13:31,883:INFO: Average reward: 3.78 +/- 0.13
+2019-05-06 00:13:32,407:INFO: Average reward: 3.62 +/- 0.13
+2019-05-06 00:13:32,937:INFO: Average reward: 3.36 +/- 0.09
+2019-05-06 00:13:33,477:INFO: Average reward: 3.34 +/- 0.09
+2019-05-06 00:13:34,024:INFO: Average reward: 3.32 +/- 0.10
+2019-05-06 00:13:34,561:INFO: Average reward: 3.28 +/- 0.09
+2019-05-06 00:13:35,090:INFO: Average reward: 3.44 +/- 0.10
+2019-05-06 00:13:35,619:INFO: Average reward: 3.21 +/- 0.09
+2019-05-06 00:13:36,155:INFO: Average reward: 3.23 +/- 0.10
+2019-05-06 00:13:36,699:INFO: Average reward: 3.38 +/- 0.11
+2019-05-06 00:13:37,243:INFO: Average reward: 3.42 +/- 0.11
+2019-05-06 00:13:37,780:INFO: Average reward: 3.36 +/- 0.11
+2019-05-06 00:13:38,331:INFO: Average reward: 3.35 +/- 0.11
+2019-05-06 00:13:38,876:INFO: Average reward: 3.25 +/- 0.10
+2019-05-06 00:14:43,519:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:14:43,522:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.19002.video000000.mp4
+2019-05-06 00:14:43,715:INFO: Average reward: 6.00 +/- 0.00
+2019-05-06 00:14:43,730:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:14:44,300:INFO: Average reward: 9.64 +/- 0.55
+2019-05-06 00:14:44,728:INFO: Average reward: 10.68 +/- 0.70
+2019-05-06 00:14:45,160:INFO: Average reward: 11.57 +/- 0.85
+2019-05-06 00:14:45,601:INFO: Average reward: 14.10 +/- 1.01
+2019-05-06 00:14:46,004:INFO: Average reward: 14.71 +/- 1.42
+2019-05-06 00:14:46,424:INFO: Average reward: 14.59 +/- 1.09
+2019-05-06 00:14:46,819:INFO: Average reward: 18.09 +/- 1.68
+2019-05-06 00:14:47,228:INFO: Average reward: 21.67 +/- 2.01
+2019-05-06 00:14:47,658:INFO: Average reward: 26.97 +/- 2.54
+2019-05-06 00:14:48,061:INFO: Average reward: 29.52 +/- 2.69
+2019-05-06 00:14:48,449:INFO: Average reward: 46.67 +/- 3.59
+2019-05-06 00:14:48,835:INFO: Average reward: 41.87 +/- 4.72
+2019-05-06 00:14:49,228:INFO: Average reward: 33.33 +/- 2.70
+2019-05-06 00:14:49,638:INFO: Average reward: 39.21 +/- 4.57
+2019-05-06 00:14:50,032:INFO: Average reward: 36.77 +/- 2.90
+2019-05-06 00:14:50,429:INFO: Average reward: 44.23 +/- 4.66
+2019-05-06 00:14:50,827:INFO: Average reward: 49.58 +/- 4.84
+2019-05-06 00:14:51,215:INFO: Average reward: 44.91 +/- 4.45
+2019-05-06 00:14:51,615:INFO: Average reward: 34.07 +/- 1.91
+2019-05-06 00:14:52,011:INFO: Average reward: 26.92 +/- 1.08
+2019-05-06 00:14:52,429:INFO: Average reward: 18.81 +/- 0.46
+2019-05-06 00:14:52,876:INFO: Average reward: 13.94 +/- 0.32
+2019-05-06 00:14:53,298:INFO: Average reward: 10.27 +/- 0.22
+2019-05-06 00:14:53,762:INFO: Average reward: 8.38 +/- 0.15
+2019-05-06 00:14:54,246:INFO: Average reward: 6.82 +/- 0.10
+2019-05-06 00:14:54,766:INFO: Average reward: 5.81 +/- 0.07
+2019-05-06 00:14:55,270:INFO: Average reward: 5.29 +/- 0.04
+2019-05-06 00:14:55,775:INFO: Average reward: 5.06 +/- 0.03
+2019-05-06 00:14:56,274:INFO: Average reward: 4.86 +/- 0.04
+2019-05-06 00:14:56,787:INFO: Average reward: 4.27 +/- 0.06
+2019-05-06 00:14:57,448:INFO: Average reward: 3.36 +/- 0.04
+2019-05-06 00:14:58,159:INFO: Average reward: 3.01 +/- 0.01
+2019-05-06 00:14:58,891:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:14:59,462:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:15:00,020:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:15:00,581:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:15:01,162:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:15:01,796:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:15:02,365:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:15:02,987:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:15:03,550:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:15:04,174:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:15:04,797:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:15:05,451:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:15:06,092:INFO: Average reward: 2.77 +/- 0.03
+2019-05-06 00:15:06,658:INFO: Average reward: 2.84 +/- 0.03
+2019-05-06 00:15:30,425:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:15:30,429:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.19108.video000000.mp4
+2019-05-06 00:15:30,615:INFO: Average reward: 5.00 +/- 0.00
+2019-05-06 00:15:30,630:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:15:31,180:INFO: Average reward: 11.02 +/- 0.71
+2019-05-06 00:15:31,579:INFO: Average reward: 15.67 +/- 1.20
+2019-05-06 00:15:31,972:INFO: Average reward: 20.67 +/- 1.66
+2019-05-06 00:15:32,396:INFO: Average reward: 29.18 +/- 2.12
+2019-05-06 00:15:32,784:INFO: Average reward: 28.67 +/- 1.83
+2019-05-06 00:15:33,163:INFO: Average reward: 32.06 +/- 2.60
+2019-05-06 00:15:33,546:INFO: Average reward: 38.46 +/- 2.42
+2019-05-06 00:15:33,926:INFO: Average reward: 39.28 +/- 2.34
+2019-05-06 00:15:34,329:INFO: Average reward: 39.72 +/- 2.66
+2019-05-06 00:15:34,743:INFO: Average reward: 49.80 +/- 4.21
+2019-05-06 00:15:35,127:INFO: Average reward: 40.50 +/- 2.30
+2019-05-06 00:15:35,529:INFO: Average reward: 36.48 +/- 2.01
+2019-05-06 00:15:35,923:INFO: Average reward: 28.85 +/- 2.12
+2019-05-06 00:15:36,332:INFO: Average reward: 19.56 +/- 0.62
+2019-05-06 00:15:36,739:INFO: Average reward: 14.03 +/- 0.19
+2019-05-06 00:15:37,159:INFO: Average reward: 11.07 +/- 0.15
+2019-05-06 00:15:37,590:INFO: Average reward: 9.35 +/- 0.12
+2019-05-06 00:15:38,026:INFO: Average reward: 8.46 +/- 0.09
+2019-05-06 00:15:38,471:INFO: Average reward: 7.53 +/- 0.10
+2019-05-06 00:15:38,919:INFO: Average reward: 6.80 +/- 0.08
+2019-05-06 00:15:39,378:INFO: Average reward: 6.40 +/- 0.07
+2019-05-06 00:15:39,898:INFO: Average reward: 6.07 +/- 0.06
+2019-05-06 00:15:40,362:INFO: Average reward: 5.62 +/- 0.06
+2019-05-06 00:15:40,840:INFO: Average reward: 4.96 +/- 0.05
+2019-05-06 00:15:41,316:INFO: Average reward: 4.85 +/- 0.05
+2019-05-06 00:15:41,810:INFO: Average reward: 4.69 +/- 0.05
+2019-05-06 00:15:42,341:INFO: Average reward: 4.32 +/- 0.03
+2019-05-06 00:15:57,700:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:15:57,704:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.19206.video000000.mp4
+2019-05-06 00:15:57,921:INFO: Average reward: 10.00 +/- 0.00
+2019-05-06 00:15:57,943:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:15:58,500:INFO: Average reward: 13.05 +/- 0.63
+2019-05-06 00:15:58,935:INFO: Average reward: 9.51 +/- 0.35
+2019-05-06 00:15:59,382:INFO: Average reward: 12.95 +/- 0.72
+2019-05-06 00:15:59,804:INFO: Average reward: 13.43 +/- 0.60
+2019-05-06 00:16:00,224:INFO: Average reward: 13.90 +/- 0.92
+2019-05-06 00:16:00,631:INFO: Average reward: 11.47 +/- 0.55
+2019-05-06 00:16:01,047:INFO: Average reward: 11.29 +/- 0.50
+2019-05-06 00:16:01,485:INFO: Average reward: 10.48 +/- 0.53
+2019-05-06 00:16:01,941:INFO: Average reward: 10.87 +/- 0.49
+2019-05-06 00:16:02,370:INFO: Average reward: 10.03 +/- 0.44
+2019-05-06 00:16:02,796:INFO: Average reward: 10.74 +/- 0.66
+2019-05-06 00:16:03,231:INFO: Average reward: 11.45 +/- 0.48
+2019-05-06 00:16:03,660:INFO: Average reward: 11.20 +/- 0.46
+2019-05-06 00:16:04,084:INFO: Average reward: 11.10 +/- 0.51
+2019-05-06 00:16:04,517:INFO: Average reward: 11.21 +/- 0.61
+2019-05-06 00:16:04,954:INFO: Average reward: 10.80 +/- 0.57
+2019-05-06 00:16:05,379:INFO: Average reward: 11.24 +/- 0.64
+2019-05-06 00:16:05,810:INFO: Average reward: 10.52 +/- 0.47
+2019-05-06 00:16:06,232:INFO: Average reward: 11.53 +/- 0.63
+2019-05-06 00:16:06,673:INFO: Average reward: 9.68 +/- 0.41
+2019-05-06 00:16:07,147:INFO: Average reward: 10.63 +/- 0.49
+2019-05-06 00:16:07,581:INFO: Average reward: 10.98 +/- 0.50
+2019-05-06 00:16:08,010:INFO: Average reward: 9.75 +/- 0.51
+2019-05-06 00:16:08,431:INFO: Average reward: 9.99 +/- 0.48
+2019-05-06 00:16:08,864:INFO: Average reward: 9.70 +/- 0.43
+2019-05-06 00:16:09,335:INFO: Average reward: 9.60 +/- 0.45
+2019-05-06 00:16:09,762:INFO: Average reward: 10.07 +/- 0.56
+2019-05-06 00:16:10,192:INFO: Average reward: 11.19 +/- 0.50
+2019-05-06 00:16:10,627:INFO: Average reward: 9.76 +/- 0.41
+2019-05-06 00:16:11,059:INFO: Average reward: 9.17 +/- 0.49
+2019-05-06 00:16:11,487:INFO: Average reward: 9.88 +/- 0.45
+2019-05-06 00:16:11,924:INFO: Average reward: 9.52 +/- 0.44
+2019-05-06 00:16:12,363:INFO: Average reward: 10.14 +/- 0.55
+2019-05-06 00:16:12,792:INFO: Average reward: 8.88 +/- 0.36
+2019-05-06 00:16:13,224:INFO: Average reward: 10.03 +/- 0.50
+2019-05-06 00:16:13,658:INFO: Average reward: 9.41 +/- 0.44
+2019-05-06 00:16:14,096:INFO: Average reward: 8.64 +/- 0.36
+2019-05-06 00:16:14,559:INFO: Average reward: 10.16 +/- 0.52
+2019-05-06 00:16:14,982:INFO: Average reward: 9.69 +/- 0.45
+2019-05-06 00:16:15,404:INFO: Average reward: 9.80 +/- 0.45
+2019-05-06 00:16:15,822:INFO: Average reward: 9.89 +/- 0.58
+2019-05-06 00:16:16,246:INFO: Average reward: 9.61 +/- 0.52
+2019-05-06 00:16:16,722:INFO: Average reward: 8.94 +/- 0.41
+2019-05-06 00:16:17,154:INFO: Average reward: 10.39 +/- 0.62
+2019-05-06 00:16:17,583:INFO: Average reward: 10.07 +/- 0.51
+2019-05-06 00:16:18,018:INFO: Average reward: 9.77 +/- 0.51
+2019-05-06 00:23:09,545:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:23:09,548:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.19579.video000000.mp4
+2019-05-06 00:23:09,712:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:23:09,724:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:23:10,332:INFO: Average reward: 6.01 +/- 0.31
+2019-05-06 00:23:10,835:INFO: Average reward: 5.07 +/- 0.19
+2019-05-06 00:23:11,334:INFO: Average reward: 5.01 +/- 0.18
+2019-05-06 00:23:11,890:INFO: Average reward: 4.69 +/- 0.15
+2019-05-06 00:23:12,421:INFO: Average reward: 4.56 +/- 0.16
+2019-05-06 00:23:12,954:INFO: Average reward: 4.34 +/- 0.11
+2019-05-06 00:23:13,525:INFO: Average reward: 3.97 +/- 0.09
+2019-05-06 00:23:14,073:INFO: Average reward: 4.02 +/- 0.10
+2019-05-06 00:23:14,611:INFO: Average reward: 3.77 +/- 0.07
+2019-05-06 00:23:15,154:INFO: Average reward: 3.61 +/- 0.07
+2019-05-06 00:23:15,714:INFO: Average reward: 3.53 +/- 0.06
+2019-05-06 00:23:16,274:INFO: Average reward: 3.41 +/- 0.06
+2019-05-06 00:25:56,251:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:25:56,254:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.19845.video000000.mp4
+2019-05-06 00:25:56,462:INFO: Average reward: 9.00 +/- 0.00
+2019-05-06 00:25:56,482:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:26:58,897:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:26:58,900:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.19986.video000000.mp4
+2019-05-06 00:26:59,063:INFO: Average reward: 3.00 +/- 0.00
+2019-05-06 00:26:59,075:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:26:59,779:INFO: Average reward: 2.83 +/- 0.08
+2019-05-06 00:27:00,330:INFO: Average reward: 3.02 +/- 0.09
+2019-05-06 00:27:00,867:INFO: Average reward: 3.13 +/- 0.11
+2019-05-06 00:27:01,414:INFO: Average reward: 3.37 +/- 0.12
+2019-05-06 00:27:01,952:INFO: Average reward: 3.67 +/- 0.13
+2019-05-06 00:27:02,457:INFO: Average reward: 3.96 +/- 0.15
+2019-05-06 00:27:02,986:INFO: Average reward: 4.25 +/- 0.16
+2019-05-06 00:27:03,532:INFO: Average reward: 4.18 +/- 0.17
+2019-05-06 00:27:04,010:INFO: Average reward: 4.48 +/- 0.18
+2019-05-06 00:27:04,493:INFO: Average reward: 4.44 +/- 0.18
+2019-05-06 00:27:04,947:INFO: Average reward: 5.41 +/- 0.25
+2019-05-06 00:27:05,377:INFO: Average reward: 6.60 +/- 0.39
+2019-05-06 00:27:05,806:INFO: Average reward: 7.26 +/- 0.38
+2019-05-06 00:27:06,252:INFO: Average reward: 7.86 +/- 0.46
+2019-05-06 00:27:06,722:INFO: Average reward: 9.51 +/- 0.68
+2019-05-06 00:27:07,226:INFO: Average reward: 8.52 +/- 0.55
+2019-05-06 00:27:07,739:INFO: Average reward: 8.11 +/- 0.65
+2019-05-06 00:27:08,355:INFO: Average reward: 7.11 +/- 0.33
+2019-05-06 00:27:08,792:INFO: Average reward: 8.07 +/- 0.43
+2019-05-06 00:27:09,245:INFO: Average reward: 9.20 +/- 0.57
+2019-05-06 00:27:09,676:INFO: Average reward: 11.36 +/- 0.72
+2019-05-06 00:27:10,106:INFO: Average reward: 11.34 +/- 0.67
+2019-05-06 00:27:10,541:INFO: Average reward: 10.86 +/- 0.67
+2019-05-06 00:27:10,980:INFO: Average reward: 10.70 +/- 0.66
+2019-05-06 00:27:11,415:INFO: Average reward: 12.15 +/- 0.75
+2019-05-06 00:27:11,842:INFO: Average reward: 15.11 +/- 1.48
+2019-05-06 00:27:12,347:INFO: Average reward: 13.60 +/- 0.93
+2019-05-06 00:27:12,816:INFO: Average reward: 13.83 +/- 1.08
+2019-05-06 00:27:13,221:INFO: Average reward: 16.20 +/- 1.30
+2019-05-06 00:27:13,637:INFO: Average reward: 14.56 +/- 1.07
+2019-05-06 00:27:14,018:INFO: Average reward: 16.83 +/- 1.41
+2019-05-06 00:27:14,416:INFO: Average reward: 15.26 +/- 1.34
+2019-05-06 00:27:14,777:INFO: Average reward: 17.14 +/- 1.20
+2019-05-06 00:27:15,158:INFO: Average reward: 18.11 +/- 1.56
+2019-05-06 00:27:15,522:INFO: Average reward: 18.07 +/- 1.26
+2019-05-06 00:27:15,930:INFO: Average reward: 17.71 +/- 1.46
+2019-05-06 00:27:16,304:INFO: Average reward: 23.60 +/- 1.88
+2019-05-06 00:27:16,721:INFO: Average reward: 17.21 +/- 1.29
+2019-05-06 00:27:17,186:INFO: Average reward: 20.35 +/- 1.50
+2019-05-06 00:27:17,624:INFO: Average reward: 19.98 +/- 1.57
+2019-05-06 00:27:18,044:INFO: Average reward: 22.43 +/- 2.26
+2019-05-06 00:27:18,504:INFO: Average reward: 21.52 +/- 1.83
+2019-05-06 00:27:18,967:INFO: Average reward: 25.44 +/- 2.38
+2019-05-06 00:27:19,401:INFO: Average reward: 25.63 +/- 1.79
+2019-05-06 00:27:19,836:INFO: Average reward: 29.21 +/- 2.34
+2019-05-06 00:27:20,247:INFO: Average reward: 24.17 +/- 1.53
+2019-05-06 00:27:20,628:INFO: Average reward: 26.03 +/- 1.83
+2019-05-06 00:27:21,156:INFO: Average reward: 29.32 +/- 1.91
+2019-05-06 00:27:21,583:INFO: Average reward: 26.73 +/- 1.67
+2019-05-06 00:27:22,040:INFO: Average reward: 27.42 +/- 2.51
+2019-05-06 00:27:22,549:INFO: Average reward: 25.79 +/- 1.64
+2019-05-06 00:27:22,911:INFO: Average reward: 29.12 +/- 2.36
+2019-05-06 00:27:23,318:INFO: Average reward: 27.97 +/- 2.10
+2019-05-06 00:27:23,740:INFO: Average reward: 33.10 +/- 2.31
+2019-05-06 00:27:24,237:INFO: Average reward: 30.30 +/- 1.94
+2019-05-06 00:27:24,691:INFO: Average reward: 32.93 +/- 2.46
+2019-05-06 00:27:25,103:INFO: Average reward: 35.92 +/- 2.83
+2019-05-06 00:27:25,543:INFO: Average reward: 36.26 +/- 2.75
+2019-05-06 00:27:25,970:INFO: Average reward: 40.58 +/- 2.43
+2019-05-06 00:27:26,433:INFO: Average reward: 37.81 +/- 2.25
+2019-05-06 00:27:26,930:INFO: Average reward: 40.54 +/- 3.09
+2019-05-06 00:27:27,316:INFO: Average reward: 40.70 +/- 2.91
+2019-05-06 00:27:27,720:INFO: Average reward: 50.00 +/- 6.03
+2019-05-06 00:27:28,157:INFO: Average reward: 39.88 +/- 2.45
+2019-05-06 00:27:28,571:INFO: Average reward: 45.05 +/- 4.44
+2019-05-06 00:27:28,984:INFO: Average reward: 49.95 +/- 2.90
+2019-05-06 00:27:29,423:INFO: Average reward: 52.11 +/- 4.75
+2019-05-06 00:27:29,841:INFO: Average reward: 50.42 +/- 3.91
+2019-05-06 00:27:30,260:INFO: Average reward: 54.24 +/- 2.37
+2019-05-06 00:27:30,691:INFO: Average reward: 61.88 +/- 5.44
+2019-05-06 00:27:31,080:INFO: Average reward: 54.17 +/- 4.90
+2019-05-06 00:27:31,458:INFO: Average reward: 50.61 +/- 4.77
+2019-05-06 00:27:31,839:INFO: Average reward: 61.56 +/- 5.98
+2019-05-06 00:27:32,210:INFO: Average reward: 60.00 +/- 3.80
+2019-05-06 00:27:32,600:INFO: Average reward: 51.53 +/- 3.81
+2019-05-06 00:27:32,996:INFO: Average reward: 61.50 +/- 6.49
+2019-05-06 00:27:33,382:INFO: Average reward: 76.46 +/- 6.78
+2019-05-06 00:27:33,746:INFO: Average reward: 70.36 +/- 3.36
+2019-05-06 00:27:34,135:INFO: Average reward: 83.45 +/- 5.39
+2019-05-06 00:27:34,498:INFO: Average reward: 77.17 +/- 5.27
+2019-05-06 00:27:34,879:INFO: Average reward: 89.90 +/- 8.96
+2019-05-06 00:27:35,249:INFO: Average reward: 99.40 +/- 9.89
+2019-05-06 00:27:35,620:INFO: Average reward: 107.33 +/- 9.76
+2019-05-06 00:27:36,009:INFO: Average reward: 139.00 +/- 27.53
+2019-05-06 00:27:36,495:INFO: Average reward: 675.00 +/- 0.00
+2019-05-06 00:27:37,030:INFO: Average reward: 982.00 +/- 0.00
+2019-05-06 00:27:37,552:INFO: Average reward: 414.50 +/- 212.49
+2019-05-06 00:27:38,072:INFO: Average reward: 386.00 +/- 137.89
+2019-05-06 00:27:38,541:INFO: Average reward: 257.00 +/- 0.00
+2019-05-06 00:27:39,090:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:27:39,527:INFO: Average reward: 387.50 +/- 170.77
+2019-05-06 00:27:40,070:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:27:40,527:INFO: Average reward: 221.00 +/- 0.00
+2019-05-06 00:27:40,967:INFO: Average reward: 428.00 +/- 14.14
+2019-05-06 00:27:41,513:INFO: Average reward: 984.00 +/- 0.00
+2019-05-06 00:27:41,933:INFO: Average reward: 412.00 +/- 112.43
+2019-05-06 00:27:42,340:INFO: Average reward: 360.00 +/- 6.36
+2019-05-06 00:27:42,848:INFO: Average reward: 896.00 +/- 0.00
+2019-05-06 00:27:43,408:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:27:43,997:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:27:43,998:INFO: - Training done.
+2019-05-06 00:27:44,134:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:27:44,138:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.1.19986.video000000.mp4
+2019-05-06 00:27:51,616:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:27:51,651:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:28:53,068:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:28:53,072:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.0.20297.video000000.mp4
+2019-05-06 00:28:53,283:INFO: Average reward: 4.00 +/- 0.00
+2019-05-06 00:28:53,297:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
+2019-05-06 00:28:53,947:INFO: Average reward: 6.89 +/- 0.33
+2019-05-06 00:28:54,377:INFO: Average reward: 8.81 +/- 0.55
+2019-05-06 00:28:54,763:INFO: Average reward: 11.30 +/- 0.92
+2019-05-06 00:28:55,136:INFO: Average reward: 16.65 +/- 1.75
+2019-05-06 00:28:55,517:INFO: Average reward: 16.67 +/- 1.27
+2019-05-06 00:28:55,979:INFO: Average reward: 20.48 +/- 1.76
+2019-05-06 00:28:56,407:INFO: Average reward: 24.98 +/- 2.01
+2019-05-06 00:28:56,777:INFO: Average reward: 27.28 +/- 2.24
+2019-05-06 00:28:57,146:INFO: Average reward: 31.87 +/- 3.07
+2019-05-06 00:28:57,507:INFO: Average reward: 25.28 +/- 1.84
+2019-05-06 00:28:57,854:INFO: Average reward: 26.78 +/- 2.11
+2019-05-06 00:28:58,280:INFO: Average reward: 30.09 +/- 2.04
+2019-05-06 00:28:58,743:INFO: Average reward: 18.81 +/- 0.92
+2019-05-06 00:28:59,296:INFO: Average reward: 20.69 +/- 1.30
+2019-05-06 00:28:59,835:INFO: Average reward: 27.67 +/- 1.81
+2019-05-06 00:29:00,364:INFO: Average reward: 29.67 +/- 2.16
+2019-05-06 00:29:00,720:INFO: Average reward: 33.66 +/- 3.08
+2019-05-06 00:29:01,068:INFO: Average reward: 30.32 +/- 1.86
+2019-05-06 00:29:01,429:INFO: Average reward: 37.35 +/- 2.91
+2019-05-06 00:29:01,786:INFO: Average reward: 43.09 +/- 4.35
+2019-05-06 00:29:02,128:INFO: Average reward: 48.80 +/- 4.49
+2019-05-06 00:29:02,480:INFO: Average reward: 46.43 +/- 3.02
+2019-05-06 00:29:02,844:INFO: Average reward: 41.62 +/- 5.57
+2019-05-06 00:29:03,204:INFO: Average reward: 52.11 +/- 5.71
+2019-05-06 00:29:03,553:INFO: Average reward: 66.13 +/- 6.07
+2019-05-06 00:29:03,913:INFO: Average reward: 75.00 +/- 9.83
+2019-05-06 00:29:04,268:INFO: Average reward: 76.77 +/- 10.04
+2019-05-06 00:29:04,649:INFO: Average reward: 109.44 +/- 19.55
+2019-05-06 00:29:05,005:INFO: Average reward: 99.70 +/- 16.58
+2019-05-06 00:29:05,368:INFO: Average reward: 129.50 +/- 28.72
+2019-05-06 00:29:05,730:INFO: Average reward: 90.55 +/- 23.87
+2019-05-06 00:29:06,094:INFO: Average reward: 146.67 +/- 33.20
+2019-05-06 00:29:06,455:INFO: Average reward: 88.18 +/- 22.23
+2019-05-06 00:29:06,833:INFO: Average reward: 140.00 +/- 38.35
+2019-05-06 00:29:07,194:INFO: Average reward: 118.62 +/- 26.84
+2019-05-06 00:29:07,582:INFO: Average reward: 163.17 +/- 42.03
+2019-05-06 00:29:07,968:INFO: Average reward: 154.20 +/- 48.59
+2019-05-06 00:29:08,409:INFO: Average reward: 396.00 +/- 233.35
+2019-05-06 00:29:08,857:INFO: Average reward: 116.00 +/- 7.78
+2019-05-06 00:29:09,292:INFO: Average reward: 633.00 +/- 0.00
+2019-05-06 00:29:09,688:INFO: Average reward: 303.00 +/- 26.87
+2019-05-06 00:29:10,071:INFO: Average reward: 213.75 +/- 39.17
+2019-05-06 00:29:10,462:INFO: Average reward: 333.00 +/- 66.47
+2019-05-06 00:29:10,847:INFO: Average reward: 160.50 +/- 38.46
+2019-05-06 00:29:11,366:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:11,877:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:12,392:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:12,905:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:13,438:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:13,954:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:14,477:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:14,998:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:15,430:INFO: Average reward: 387.00 +/- 0.00
+2019-05-06 00:29:15,960:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:16,428:INFO: Average reward: 864.00 +/- 0.00
+2019-05-06 00:29:16,957:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:17,529:INFO: Average reward: 995.00 +/- 0.00
+2019-05-06 00:29:18,044:INFO: Average reward: 997.00 +/- 0.00
+2019-05-06 00:29:18,538:INFO: Average reward: 709.00 +/- 0.00
+2019-05-06 00:29:19,060:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:19,496:INFO: Average reward: 478.00 +/- 0.00
+2019-05-06 00:29:20,010:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:20,455:INFO: Average reward: 306.00 +/- 0.00
+2019-05-06 00:29:20,853:INFO: Average reward: 234.25 +/- 67.69
+2019-05-06 00:29:21,360:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:21,761:INFO: Average reward: 326.67 +/- 73.43
+2019-05-06 00:29:22,191:INFO: Average reward: 232.50 +/- 138.48
+2019-05-06 00:29:22,583:INFO: Average reward: 211.33 +/- 76.34
+2019-05-06 00:29:22,968:INFO: Average reward: 270.67 +/- 52.40
+2019-05-06 00:29:23,422:INFO: Average reward: 273.00 +/- 0.00
+2019-05-06 00:29:23,833:INFO: Average reward: 233.00 +/- 115.26
+2019-05-06 00:29:24,357:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:24,920:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:25,343:INFO: Average reward: 462.00 +/- 0.00
+2019-05-06 00:29:25,853:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:26,380:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:26,903:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:27,430:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:27,949:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:28,363:INFO: Average reward: 321.67 +/- 34.18
+2019-05-06 00:29:28,805:INFO: Average reward: 490.50 +/- 175.72
+2019-05-06 00:29:29,323:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:29,835:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:30,346:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:30,884:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:31,396:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:31,785:INFO: Average reward: 225.00 +/- 38.13
+2019-05-06 00:29:32,209:INFO: Average reward: 483.00 +/- 0.00
+2019-05-06 00:29:32,719:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:33,244:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:33,760:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:34,269:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:34,788:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:35,317:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:35,851:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:36,365:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:36,882:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:37,370:INFO: Average reward: 143.00 +/- 0.00
+2019-05-06 00:29:37,863:INFO: Average reward: 887.00 +/- 0.00
+2019-05-06 00:29:38,374:INFO: Average reward: 1000.00 +/- 0.00
+2019-05-06 00:29:38,374:INFO: - Training done.
+2019-05-06 00:29:38,505:INFO: Making new env: InvertedPendulum-v1
+2019-05-06 00:29:38,508:INFO: Starting new video recorder writing to /home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline/openaigym.video.1.20297.video000000.mp4
+2019-05-06 00:29:39,358:INFO: Average reward: 99.00 +/- 0.00
+2019-05-06 00:29:39,391:INFO: Finished writing results. You can upload them to the scoreboard via gym.upload('/home/galkampel/PycharmProjects/HW3_2019/assignment3/assignment3/results/InvertedPendulum-v1-baseline')
