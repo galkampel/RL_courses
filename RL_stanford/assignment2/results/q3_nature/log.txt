@@ -1,0 +1,72 @@
+2019-04-22 20:09:21,456:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-22 20:09:21,497:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/contrib/layers/python/layers/layers.py:1624: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-04-22 20:10:52,891:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-22 20:10:52,919:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/contrib/layers/python/layers/layers.py:1624: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-04-22 20:10:53,054:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-22 20:10:53,570:INFO: Evaluating...
+2019-04-22 20:10:53,765:INFO: Average reward: -0.20 +/- 0.00
+2019-04-22 20:10:54,263:INFO: Evaluating...
+2019-04-22 20:10:54,394:INFO: Average reward: -1.00 +/- 0.00
+2019-04-22 20:10:55,929:INFO: Evaluating...
+2019-04-22 20:10:56,059:INFO: Average reward: 0.50 +/- 0.00
+2019-04-22 20:10:57,607:INFO: Evaluating...
+2019-04-22 20:10:57,742:INFO: Average reward: 0.50 +/- 0.00
+2019-04-22 20:10:59,336:INFO: Evaluating...
+2019-04-22 20:10:59,472:INFO: Average reward: 0.50 +/- 0.00
+2019-04-22 20:11:01,040:INFO: Evaluating...
+2019-04-22 20:11:01,163:INFO: Average reward: 0.50 +/- 0.00
+2019-04-22 20:11:02,718:INFO: Evaluating...
+2019-04-22 20:11:02,842:INFO: Average reward: 0.50 +/- 0.00
+2019-04-22 20:11:04,388:INFO: Evaluating...
+2019-04-22 20:11:04,514:INFO: Average reward: 0.50 +/- 0.00
+2019-04-22 20:11:06,122:INFO: Evaluating...
+2019-04-22 20:11:06,244:INFO: Average reward: 0.50 +/- 0.00
+2019-04-22 20:11:07,143:INFO: - Training done.
+2019-04-22 20:11:07,271:INFO: Evaluating...
+2019-04-22 20:11:07,406:INFO: Average reward: 0.50 +/- 0.00
+2019-04-22 20:11:07,431:DEBUG: update_title_pos
+2019-04-22 20:11:07,440:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.6/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-04-22 20:11:07,542:DEBUG: update_title_pos
+2019-04-22 20:31:14,147:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/framework/op_def_library.py:263: colocate_with (from tensorflow.python.framework.ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Colocations handled automatically by placer.
+2019-04-22 20:31:14,366:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/contrib/layers/python/layers/layers.py:1624: flatten (from tensorflow.python.layers.core) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use keras.layers.flatten instead.
+2019-04-22 20:31:14,542:WARNING: From /usr/local/lib/python3.6/dist-packages/tensorflow/python/ops/math_ops.py:3066: to_int32 (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.cast instead.
+2019-04-22 20:31:15,342:INFO: Evaluating...
+2019-04-22 20:31:15,609:INFO: Average reward: -0.50 +/- 0.00
+2019-04-22 20:31:16,293:INFO: Evaluating...
+2019-04-22 20:31:16,477:INFO: Average reward: -0.70 +/- 0.00
+2019-04-22 20:31:19,582:INFO: Evaluating...
+2019-04-22 20:31:19,761:INFO: Average reward: 0.50 +/- 0.00
+2019-04-22 20:31:22,887:INFO: Evaluating...
+2019-04-22 20:31:23,069:INFO: Average reward: 1.40 +/- 0.00
+2019-04-22 20:31:26,258:INFO: Evaluating...
+2019-04-22 20:31:26,437:INFO: Average reward: 4.00 +/- 0.00
+2019-04-22 20:31:29,508:INFO: Evaluating...
+2019-04-22 20:31:29,688:INFO: Average reward: 4.10 +/- 0.00
+2019-04-22 20:31:32,767:INFO: Evaluating...
+2019-04-22 20:31:32,953:INFO: Average reward: 4.10 +/- 0.00
+2019-04-22 20:31:36,053:INFO: Evaluating...
+2019-04-22 20:31:36,233:INFO: Average reward: 4.10 +/- 0.00
+2019-04-22 20:31:39,399:INFO: Evaluating...
+2019-04-22 20:31:39,576:INFO: Average reward: 4.10 +/- 0.00
+2019-04-22 20:31:41,361:INFO: - Training done.
+2019-04-22 20:31:41,593:INFO: Evaluating...
+2019-04-22 20:31:41,784:INFO: Average reward: 4.10 +/- 0.00
+2019-04-22 20:31:41,803:DEBUG: update_title_pos
+2019-04-22 20:31:41,813:DEBUG: findfont: Matching :family=sans-serif:style=normal:variant=normal:weight=normal:stretch=normal:size=10.0 to DejaVu Sans ('/usr/local/lib/python3.6/dist-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf') with score of 0.050000.
+2019-04-22 20:31:42,108:DEBUG: update_title_pos
